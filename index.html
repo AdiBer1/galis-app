@@ -5,6 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>English-Hebrew Quiz</title>
     <style>
+      .container {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            width: 90%;
+            height: 100%;
+            padding: 20px;
+        }
         body {
             font-family: Arial, sans-serif;
             background-color: #f8f9fa;
@@ -17,14 +26,15 @@
         }
 
         .card {
-            width: 90%;
-            max-width: 600px;
-            padding: 20px;
-            border: 2px solid #007bff;
-            border-radius: 10px;
-            background-color: #ffffff;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        }
+        width: 90%;
+        max-width: 600px;
+        padding: 20px;
+        border: 2px solid #007bff;
+        border-radius: 10px;
+        background-color: #ffffff;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        margin-bottom: 20px;
+    }
 
         h1 {
             text-align: center;
@@ -32,21 +42,42 @@
         }
 
         #letterSelect {
-            display: flex;
-            flex-wrap: wrap;
+            display: grid;
+            grid-template-columns: repeat(9, 1fr); /* 9 equal columns */
+            grid-template-rows: repeat(3, 1fr); /* 3 equal rows */
             gap: 10px;
-            padding: 10px;
-            border: 2px solid #007bff;
-            border-radius: 10px;
-            background-color: #e9ecef;
-            color: #007bff;
-            font-size: 1rem;
+            margin-bottom: 20px;
+            width: 100%;
+            height: 150px;
         }
 
         #letterSelect label {
-            flex: 1 1 30px;
             display: flex;
             align-items: center;
+            justify-content: center;
+            background-color: #ADD8E6;
+            width: 100%;
+            height: 100%;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+            text-align: center;
+            color: white;
+            font-weight: bold;
+            border: 2px solid #1E90FF;
+            box-sizing: border-box;
+        }
+
+        #letterSelect input[type="checkbox"] {
+            display: none; /* Hide the default checkbox */
+        }
+
+        #letterSelect input[type="checkbox"]:checked + label {
+            background-color: #1E90FF; /* Blue background when checked */
+        }
+
+        #letterSelect label:hover {
+            background-color: #87CEFA; /* Lighter blue background on hover */
         }
 
         #selectedLetters {
@@ -104,60 +135,107 @@
         }
 
         .feedback {
-        margin-top: 10px;
-        font-size: 1rem;
-        text-align: center;
-    }
+            margin-top: 10px;
+            font-size: 1rem;
+            text-align: center;
+        }
 
-    .option.correct {
-        background-color: green;
-        color: white;
-    }
+        .option.correct {
+            background-color: green;
+            color: white;
+        }
 
-    .option.incorrect {
-        background-color: red;
-        color: white;
-    }
+        .option.incorrect {
+            background-color: red;
+            color: white;
+        }
+        .toggle-button {
+            background-color: #007bff;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+            margin-bottom: 20px; /* Add margin to create space */
+        }
     </style>
 </head>
 <body>
-    <div class="card">
+    <div class="container">
+
+        <button class="toggle-button" id="toggleButton" onclick="toggleCard()">Letters Selection</button>
+
+    <div class="card" id="letterSelectionCard">
         <h1>English-Hebrew Quiz</h1>
         <div id="quiz">
             <div id="letterSelect">
-                <label><input type="checkbox" value="a"> A</label>
-                <label><input type="checkbox" value="b"> B</label>
-                <label><input type="checkbox" value="c"> C</label>
-                <label><input type="checkbox" value="d"> D</label>
-                <label><input type="checkbox" value="e"> E</label>
-                <label><input type="checkbox" value="f"> F</label>
-                <label><input type="checkbox" value="g"> G</label>
-                <label><input type="checkbox" value="h"> H</label>
-                <label><input type="checkbox" value="i"> I</label>
-                <label><input type="checkbox" value="j"> J</label>
-                <label><input type="checkbox" value="k"> K</label>
-                <label><input type="checkbox" value="l"> L</label>
-                <label><input type="checkbox" value="m"> M</label>
-                <label><input type="checkbox" value="n"> N</label>
-                <label><input type="checkbox" value="o"> O</label>
-                <label><input type="checkbox" value="p"> P</label>
-                <label><input type="checkbox" value="q"> Q</label>
-                <label><input type="checkbox" value="r"> R</label>
-                <label><input type="checkbox" value="s"> S</label>
-                <label><input type="checkbox" value="t"> T</label>
-                <label><input type="checkbox" value="u"> U</label>
-                <label><input type="checkbox" value="v"> V</label>
-                <label><input type="checkbox" value="w"> W</label>
-                <label><input type="checkbox" value="x"> X</label>
-                <label><input type="checkbox" value="y"> Y</label>
-                <label><input type="checkbox" value="z"> Z</label>
+                <input type="checkbox" id="selectAll" value="selectAll">
+                <label for="selectAll">All</label>
+                <input type="checkbox" id="letterA" value="a">
+                <label for="letterA">A</label>
+                <input type="checkbox" id="letterB" value="b">
+                <label for="letterB">B</label>
+                <input type="checkbox" id="letterC" value="c">
+                <label for="letterC">C</label>
+                <input type="checkbox" id="letterD" value="d">
+                <label for="letterD">D</label>
+                <input type="checkbox" id="letterE" value="e">
+                <label for="letterE">E</label>
+                <input type="checkbox" id="letterF" value="f">
+                <label for="letterF">F</label>
+                <input type="checkbox" id="letterG" value="g">
+                <label for="letterG">G</label>
+                <input type="checkbox" id="letterH" value="h">
+                <label for="letterH">H</label>
+                <input type="checkbox" id="letterI" value="i">
+                <label for="letterI">I</label>
+                <input type="checkbox" id="letterJ" value="j">
+                <label for="letterJ">J</label>
+                <input type="checkbox" id="letterK" value="k">
+                <label for="letterK">K</label>
+                <input type="checkbox" id="letterL" value="l">
+                <label for="letterL">L</label>
+                <input type="checkbox" id="letterM" value="m">
+                <label for="letterM">M</label>
+                <input type="checkbox" id="letterN" value="n">
+                <label for="letterN">N</label>
+                <input type="checkbox" id="letterO" value="o">
+                <label for="letterO">O</label>
+                <input type="checkbox" id="letterP" value="p">
+                <label for="letterP">P</label>
+                <input type="checkbox" id="letterQ" value="q">
+                <label for="letterQ">Q</label>
+                <input type="checkbox" id="letterR" value="r">
+                <label for="letterR">R</label>
+                <input type="checkbox" id="letterS" value="s">
+                <label for="letterS">S</label>
+                <input type="checkbox" id="letterT" value="t">
+                <label for="letterT">T</label>
+                <input type="checkbox" id="letterU" value="u">
+                <label for="letterU">U</label>
+                <input type="checkbox" id="letterV" value="v">
+                <label for="letterV">V</label>
+                <input type="checkbox" id="letterW" value="w">
+                <label for="letterW">W</label>
+                <input type="checkbox" id="letterX" value="x">
+                <label for="letterX">X</label>
+                <input type="checkbox" id="letterY" value="y">
+                <label for="letterY">Y</label>
+                <input type="checkbox" id="letterZ" value="z">
+                <label for="letterZ">Z</label>
             </div>
-            <div id="selectedLetters">Selected Letters: </div>
             <button onclick="loadQuestion()">Start Quiz</button>
+
+        </div>
+    </div>
+
+        <div class="card">
             <div class="question" id="question">Loading...</div>
             <div class="options" id="options"></div>
             <div class="feedback" id="feedback"></div>
         </div>
+    </div>
     </div>
     <script>
         const words = [
@@ -6931,14 +7009,43 @@
     }
 ];
 
+function toggleCard() {
+    const card = document.getElementById('letterSelectionCard');
+            const button = document.getElementById('toggleButton');
+            if (card.style.display === 'none' || card.style.display === '') {
+                card.style.display = 'block';
+                button.textContent = 'Close Letters Selection';
+            } else {
+                card.style.display = 'none';
+                button.textContent = 'Open Letters Selection';
+            }
+        
+        }
+
 const quizContainer = document.getElementById('quiz');
     const questionElement = document.getElementById('question');
     const optionsElement = document.getElementById('options');
     const feedbackElement = document.getElementById('feedback');
-    const letterSelect = document.getElementById('letterSelect');
     const selectedLettersDiv = document.getElementById('selectedLetters');
 
     let selectedLetters = [];
+    document.getElementById('selectAll').addEventListener('change', function() {
+        const checkboxes = document.querySelectorAll('#letterSelect input[type="checkbox"]');
+        checkboxes.forEach(checkbox => {
+            if (checkbox !== this) {
+                checkbox.checked = this.checked;
+                checkbox.dispatchEvent(new Event('change')); // Trigger change event to update styles
+            }
+        });
+    });
+
+    const letterSelect = document.getElementById('letterSelect');
+    letterSelect.addEventListener('change', () => {
+        const selectedLetters = Array.from(letterSelect.querySelectorAll('input[type="checkbox"]:checked'))
+            .map(option => option.value)
+            .filter(value => value !== 'selectAll');
+        document.getElementById('selectedLetters').textContent = 'Selected Letters: ' + selectedLetters.join(', ');
+    });
 
     letterSelect.addEventListener('change', () => {
         selectedLetters = Array.from(letterSelect.querySelectorAll('input[type="checkbox"]:checked')).map(option => option.value);
