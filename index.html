@@ -7,79 +7,158 @@
     <style>
         body {
             font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+            margin: 0;
+            padding: 0;
             display: flex;
             justify-content: center;
             align-items: center;
-            min-height: 100vh;
-            margin: 0;
-            background-color: #f0f8ff; /* Light blue background */
-            color: #343a40; /* Dark text color */
+            height: 100vh;
         }
+
         .card {
-            background-color: #ffffff;
-            border: 2px solid #007bff;
-            border-radius: 15px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            width: 90%;
+            max-width: 600px;
             padding: 20px;
-            max-width: 400px;
-            width: 100%;
-            text-align: center;
-        }
-        h1 {
-            color: #007bff; /* Blue */
-            font-size: 2rem;
-            margin-bottom: 20px;
-        }
-        .question {
-            font-size: 1.5rem;
-            margin-bottom: 20px;
-            color: #495057; /* Subtle dark gray */
-        }
-        .options {
-            display: flex;
-            flex-direction: column;
-            gap: 15px;
-        }
-        button {
-            padding: 12px;
-            font-size: 1rem;
             border: 2px solid #007bff;
             border-radius: 10px;
-            background-color: #e9ecef; /* Light gray */
-            color: #007bff;
-            cursor: pointer;
-            transition: background-color 0.3s, color 0.3s, transform 0.2s;
+            background-color: #ffffff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         }
-        button:hover {
+
+        h1 {
+            text-align: center;
+            color: #007bff;
+        }
+
+        #letterSelect {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            padding: 10px;
+            border: 2px solid #007bff;
+            border-radius: 10px;
+            background-color: #e9ecef;
+            color: #007bff;
+            font-size: 1rem;
+        }
+
+        #letterSelect label {
+            flex: 1 1 30px;
+            display: flex;
+            align-items: center;
+        }
+
+        #selectedLetters {
+            margin-top: 10px;
+            padding: 10px;
+            border: 2px solid #007bff;
+            border-radius: 10px;
+            background-color: #e9ecef;
+            color: #007bff;
+            font-size: 1rem;
+        }
+
+        button {
+            display: block;
+            width: 100%;
+            padding: 10px;
+            margin-top: 10px;
+            border: none;
+            border-radius: 5px;
             background-color: #007bff;
             color: #ffffff;
-            transform: scale(1.05);
+            font-size: 1rem;
+            cursor: pointer;
         }
-        button.correct {
-            background-color: #28a745; /* Green */
-            color: #ffffff;
+
+        button:hover {
+            background-color: #0056b3;
         }
-        button.wrong {
-            background-color: #dc3545; /* Red */
-            color: #ffffff;
-        }
-        .feedback {
+
+        .question {
             margin-top: 20px;
             font-size: 1.2rem;
-            font-weight: bold;
+            color: #333333;
         }
+
+        .options {
+            margin-top: 10px;
+        }
+
+        .option {
+            display: block;
+            width: 100%;
+            padding: 10px;
+            margin-top: 5px;
+            border: 2px solid #007bff;
+            border-radius: 5px;
+            background-color: #ffffff;
+            color: #007bff;
+            font-size: 1rem;
+            cursor: pointer;
+        }
+
+        .option:hover {
+            background-color: #e9ecef;
+        }
+
+        .feedback {
+        margin-top: 10px;
+        font-size: 1rem;
+        text-align: center;
+    }
+
+    .option.correct {
+        background-color: green;
+        color: white;
+    }
+
+    .option.incorrect {
+        background-color: red;
+        color: white;
+    }
     </style>
 </head>
 <body>
     <div class="card">
         <h1>English-Hebrew Quiz</h1>
         <div id="quiz">
+            <div id="letterSelect">
+                <label><input type="checkbox" value="a"> A</label>
+                <label><input type="checkbox" value="b"> B</label>
+                <label><input type="checkbox" value="c"> C</label>
+                <label><input type="checkbox" value="d"> D</label>
+                <label><input type="checkbox" value="e"> E</label>
+                <label><input type="checkbox" value="f"> F</label>
+                <label><input type="checkbox" value="g"> G</label>
+                <label><input type="checkbox" value="h"> H</label>
+                <label><input type="checkbox" value="i"> I</label>
+                <label><input type="checkbox" value="j"> J</label>
+                <label><input type="checkbox" value="k"> K</label>
+                <label><input type="checkbox" value="l"> L</label>
+                <label><input type="checkbox" value="m"> M</label>
+                <label><input type="checkbox" value="n"> N</label>
+                <label><input type="checkbox" value="o"> O</label>
+                <label><input type="checkbox" value="p"> P</label>
+                <label><input type="checkbox" value="q"> Q</label>
+                <label><input type="checkbox" value="r"> R</label>
+                <label><input type="checkbox" value="s"> S</label>
+                <label><input type="checkbox" value="t"> T</label>
+                <label><input type="checkbox" value="u"> U</label>
+                <label><input type="checkbox" value="v"> V</label>
+                <label><input type="checkbox" value="w"> W</label>
+                <label><input type="checkbox" value="x"> X</label>
+                <label><input type="checkbox" value="y"> Y</label>
+                <label><input type="checkbox" value="z"> Z</label>
+            </div>
+            <div id="selectedLetters">Selected Letters: </div>
+            <button onclick="loadQuestion()">Start Quiz</button>
             <div class="question" id="question">Loading...</div>
             <div class="options" id="options"></div>
             <div class="feedback" id="feedback"></div>
         </div>
     </div>
-
     <script>
         const words = [
     {
@@ -6852,54 +6931,77 @@
     }
 ];
 
-        const quizContainer = document.getElementById('quiz');
-        const questionElement = document.getElementById('question');
-        const optionsElement = document.getElementById('options');
-        const feedbackElement = document.getElementById('feedback');
+const quizContainer = document.getElementById('quiz');
+    const questionElement = document.getElementById('question');
+    const optionsElement = document.getElementById('options');
+    const feedbackElement = document.getElementById('feedback');
+    const letterSelect = document.getElementById('letterSelect');
+    const selectedLettersDiv = document.getElementById('selectedLetters');
 
-        function shuffle(array) {
-            for (let i = array.length - 1; i > 0; i--) {
-                const j = Math.floor(Math.random() * (i + 1));
-                [array[i], array[j]] = [array[j], array[i]];
-            }
+    let selectedLetters = [];
+
+    letterSelect.addEventListener('change', () => {
+        selectedLetters = Array.from(letterSelect.querySelectorAll('input[type="checkbox"]:checked')).map(option => option.value);
+        selectedLettersDiv.textContent = 'Selected Letters: ' + selectedLetters.join(', ');
+    });
+
+    function shuffle(array) {
+        for (let i = array.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [array[i], array[j]] = [array[j], array[i]];
         }
+    }
 
-        function loadQuestion() {
-            feedbackElement.textContent = '';
-            feedbackElement.className = 'feedback';
+    function loadQuestion() {
+        feedbackElement.textContent = '';
+        feedbackElement.className = 'feedback';
 
-            const currentWord = words[Math.floor(Math.random() * words.length)];
-            questionElement.textContent = `What is the Hebrew translation for "${currentWord.english}"?`;
-
-            const options = [
-                currentWord.hebrew,
-                ...words.filter(word => word.hebrew !== currentWord.hebrew).map(word => word.hebrew).slice(0, 3)
-            ];
-
-            shuffle(options);
-
+        const filteredWords = words.filter(word => selectedLetters.includes(word.english.charAt(0).toLowerCase()));
+        if (filteredWords.length === 0) {
+            questionElement.textContent = 'No words available for the selected letters.';
             optionsElement.innerHTML = '';
-            options.forEach(option => {
-                const button = document.createElement('button');
-                button.textContent = option;
-                button.addEventListener('click', () => checkAnswer(button, option, currentWord.hebrew));
-                optionsElement.appendChild(button);
-            });
+            return;
         }
 
-        function checkAnswer(button, selected, correct) {
-            if (selected === correct) {
-                button.classList.add('correct');
-                feedbackElement.textContent = 'Correct!';
-            } else {
-                button.classList.add('wrong');
-                feedbackElement.textContent = `Wrong! The correct answer is: ${correct}`;
+        const currentWord = filteredWords[Math.floor(Math.random() * filteredWords.length)];
+        questionElement.textContent = `What is the Hebrew translation for "${currentWord.english}"?`;
+
+        let options = [currentWord.hebrew];
+        const otherOptions = filteredWords.filter(word => word.hebrew !== currentWord.hebrew);
+        shuffle(otherOptions);
+        options = options.concat(otherOptions.slice(0, 3).map(word => word.hebrew));
+
+        shuffle(options);
+
+        optionsElement.innerHTML = '';
+        options.forEach(option => {
+            const button = document.createElement('button');
+            button.textContent = option;
+            button.className = 'option';
+            button.addEventListener('click', () => checkAnswer(button, option, currentWord));
+            optionsElement.appendChild(button);
+        });
+    }
+
+    function checkAnswer(button, selectedOption, currentWord) {
+        if (selectedOption === currentWord.hebrew) {
+            feedbackElement.textContent = 'Correct!';
+            feedbackElement.className = 'feedback correct';
+            button.classList.add('correct');
+            // Remove the word from the words array
+            const index = words.indexOf(currentWord);
+            if (index > -1) {
+                words.splice(index, 1);
             }
-            Array.from(optionsElement.children).forEach(btn => btn.disabled = true);
-            setTimeout(loadQuestion, 2000);
+        } else {
+            feedbackElement.textContent = 'Incorrect!';
+            feedbackElement.className = 'feedback incorrect';
+            button.classList.add('incorrect');
         }
+        setTimeout(loadQuestion, 2000);
+    }
 
-        loadQuestion();
-    </script>
+    loadQuestion();
+</script>
 </body>
 </html>
