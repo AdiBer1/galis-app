@@ -1,0 +1,6770 @@
+[
+    {
+        "english": "abbreviate",
+        "hebrew": "לקצר"
+    },
+    {
+        "english": "abdomen",
+        "hebrew": "בטן"
+    },
+    {
+        "english": "ability",
+        "hebrew": "יכולת"
+    },
+    {
+        "english": "abnormal",
+        "hebrew": "לא נורמלי"
+    },
+    {
+        "english": "abolish",
+        "hebrew": "לבטל"
+    },
+    {
+        "english": "above",
+        "hebrew": "מעל"
+    },
+    {
+        "english": "absolute",
+        "hebrew": "מוחלט, מושלם"
+    },
+    {
+        "english": "absolutely",
+        "hebrew": "באופן מוחלט"
+    },
+    {
+        "english": "absorb",
+        "hebrew": "לקלוט, לספוג, להתעמק"
+    },
+    {
+        "english": "absorbent",
+        "hebrew": "בעל כושר ספיגה"
+    },
+    {
+        "english": "absorption",
+        "hebrew": "ספיגה"
+    },
+    {
+        "english": "abundant",
+        "hebrew": "בשפע"
+    },
+    {
+        "english": "abuse",
+        "hebrew": "לנצל/להשתמש לרעה"
+    },
+    {
+        "english": "accelerate",
+        "hebrew": "להאיץ"
+    },
+    {
+        "english": "accept",
+        "hebrew": "לקבל, להסכים"
+    },
+    {
+        "english": "acceptable",
+        "hebrew": "מקובל"
+    },
+    {
+        "english": "acceptance",
+        "hebrew": "קבלה"
+    },
+    {
+        "english": "access",
+        "hebrew": "גישה, כניסה"
+    },
+    {
+        "english": "accessibility",
+        "hebrew": "נגישות"
+    },
+    {
+        "english": "accessible",
+        "hebrew": "נגיש"
+    },
+    {
+        "english": "accessory",
+        "hebrew": "מסייע, מאפשר, שותף , אביזר"
+    },
+    {
+        "english": "accompany",
+        "hebrew": "להתלוות, ללוות"
+    },
+    {
+        "english": "accomplish",
+        "hebrew": "לבצע, להשיג"
+    },
+    {
+        "english": "accomplished",
+        "hebrew": "מוכשר, בעל הישגים"
+    },
+    {
+        "english": "accomplishment",
+        "hebrew": "הישג, השלמה"
+    },
+    {
+        "english": "according",
+        "hebrew": "to על פי"
+    },
+    {
+        "english": "accordingly",
+        "hebrew": "בהתאם לכך"
+    },
+    {
+        "english": "account",
+        "hebrew": "חשבון בנק, דין וחשבון"
+    },
+    {
+        "english": "account",
+        "hebrew": "for להסביר"
+    },
+    {
+        "english": "accountable",
+        "hebrew": "אחראי"
+    },
+    {
+        "english": "accumulate",
+        "hebrew": "להצטבר' לצבור"
+    },
+    {
+        "english": "accumulation",
+        "hebrew": "הצטברות"
+    },
+    {
+        "english": "accumulative",
+        "hebrew": "מצטבר"
+    },
+    {
+        "english": "accurate",
+        "hebrew": "מדוייק, דייקן"
+    },
+    {
+        "english": "accurately",
+        "hebrew": "בדייקנות"
+    },
+    {
+        "english": "achievable",
+        "hebrew": "ניתן להשגה"
+    },
+    {
+        "english": "achieve",
+        "hebrew": "להשיג, להשלים"
+    },
+    {
+        "english": "achievement",
+        "hebrew": "הישג"
+    },
+    {
+        "english": "acquire",
+        "hebrew": "לרכוש, להשיג"
+    },
+    {
+        "english": "actual",
+        "hebrew": "עובדתי, אמיתי, ממשי"
+    },
+    {
+        "english": "acute",
+        "hebrew": "רציני, חמור, אנוש, קריטי"
+    },
+    {
+        "english": "adapt",
+        "hebrew": "להתאים, לעבד, לסגל"
+    },
+    {
+        "english": "adaptable",
+        "hebrew": "שאפשר להתאימו"
+    },
+    {
+        "english": "adaptation",
+        "hebrew": "הסתגלות, התאמה"
+    },
+    {
+        "english": "address",
+        "hebrew": "כתובת"
+    },
+    {
+        "english": "adhere",
+        "hebrew": "to לדבוק ב..."
+    },
+    {
+        "english": "adherence",
+        "hebrew": "דבקות, הידבקות"
+    },
+    {
+        "english": "adjust",
+        "hebrew": "לכוון, להסתגל"
+    },
+    {
+        "english": "administer",
+        "hebrew": "לנהל"
+    },
+    {
+        "english": "administration",
+        "hebrew": "ניהול, מנהל"
+    },
+    {
+        "english": "administrative",
+        "hebrew": "ניהולי"
+    },
+    {
+        "english": "administrator",
+        "hebrew": "מנהל"
+    },
+    {
+        "english": "admit",
+        "hebrew": "להודות"
+    },
+    {
+        "english": "admit",
+        "hebrew": "into להכניס"
+    },
+    {
+        "english": "admittance",
+        "hebrew": "הודאה, הכנסה"
+    },
+    {
+        "english": "admittedly",
+        "hebrew": "מוסכם, לכל הדעות"
+    },
+    {
+        "english": "adolescence",
+        "hebrew": "נעורים' גיל ההתבגרות"
+    },
+    {
+        "english": "adopt",
+        "hebrew": "לאמץ"
+    },
+    {
+        "english": "advance",
+        "hebrew": "התקדמות, להתקדם, מקדמה"
+    },
+    {
+        "english": "advantage",
+        "hebrew": "יתרון"
+    },
+    {
+        "english": "advantageous",
+        "hebrew": "מועיל"
+    },
+    {
+        "english": "adversary",
+        "hebrew": "יריב"
+    },
+    {
+        "english": "advertise",
+        "hebrew": "לפרסם"
+    },
+    {
+        "english": "advertisement",
+        "hebrew": "פרסומת, פרסום"
+    },
+    {
+        "english": "advice",
+        "hebrew": "עצה"
+    },
+    {
+        "english": "advocate",
+        "hebrew": "לסנגר, לדגול ב..."
+    },
+    {
+        "english": "affect",
+        "hebrew": "להשפיע"
+    },
+    {
+        "english": "affection",
+        "hebrew": "חיבה"
+    },
+    {
+        "english": "afflict",
+        "hebrew": "לייסר"
+    },
+    {
+        "english": "afford",
+        "hebrew": "להרשות לעצמך"
+    },
+    {
+        "english": "against",
+        "hebrew": "נגד"
+    },
+    {
+        "english": "age",
+        "hebrew": "גיל"
+    },
+    {
+        "english": "agenda",
+        "hebrew": "סדר יום"
+    },
+    {
+        "english": "aggression",
+        "hebrew": "תוקפנות"
+    },
+    {
+        "english": "aggressive",
+        "hebrew": "תוקפני, אגרסיבי"
+    },
+    {
+        "english": "agree",
+        "hebrew": "להסכים"
+    },
+    {
+        "english": "agriculture",
+        "hebrew": "חקלאות"
+    },
+    {
+        "english": "aim",
+        "hebrew": "מטרה, כיוון, לכוון, להתעתד"
+    },
+    {
+        "english": "air",
+        "hebrew": "אוויר"
+    },
+    {
+        "english": "airplane",
+        "hebrew": "מטוס"
+    },
+    {
+        "english": "airport",
+        "hebrew": "שדה תעופה"
+    },
+    {
+        "english": "alert",
+        "hebrew": "אזעקה, מצב היכון, להזהיר, ער, מוכן"
+    },
+    {
+        "english": "alertness",
+        "hebrew": "עירנות, דריכות"
+    },
+    {
+        "english": "alien",
+        "hebrew": "חוצן"
+    },
+    {
+        "english": "allegedly",
+        "hebrew": "לכאורה"
+    },
+    {
+        "english": "allow",
+        "hebrew": "להרשות"
+    },
+    {
+        "english": "allow",
+        "hebrew": "for להביא בחשבון"
+    },
+    {
+        "english": "allowable",
+        "hebrew": "מותר"
+    },
+    {
+        "english": "allowance",
+        "hebrew": "דמי כיס, קצבה"
+    },
+    {
+        "english": "ally",
+        "hebrew": "בעל ברית, לחבור, להתחבר"
+    },
+    {
+        "english": "also",
+        "hebrew": "גם"
+    },
+    {
+        "english": "alternate",
+        "hebrew": "לסירוגין, חלופי"
+    },
+    {
+        "english": "although",
+        "hebrew": "אף על פי כן"
+    },
+    {
+        "english": "ambiguity",
+        "hebrew": "דו משמעות, עמימות"
+    },
+    {
+        "english": "ambiguous",
+        "hebrew": "עמום, דו משמעי"
+    },
+    {
+        "english": "ambition",
+        "hebrew": "שאפתנות, שאיפה"
+    },
+    {
+        "english": "ambitious",
+        "hebrew": "שאפתן, בעל שאיפות"
+    },
+    {
+        "english": "ambivalence",
+        "hebrew": "רגשות סותרים"
+    },
+    {
+        "english": "ambivalent",
+        "hebrew": "בעל משמעויות סותרות"
+    },
+    {
+        "english": "amiss",
+        "hebrew": "לא כשורה"
+    },
+    {
+        "english": "ammunition",
+        "hebrew": "תחמושת"
+    },
+    {
+        "english": "among",
+        "hebrew": "(amongst) בקרב, בין כמה דברים, נמנה עם"
+    },
+    {
+        "english": "amount",
+        "hebrew": "סכום, להסתכם"
+    },
+    {
+        "english": "ancestor",
+        "hebrew": "אב קדמון"
+    },
+    {
+        "english": "ancient",
+        "hebrew": "עתיק"
+    },
+    {
+        "english": "annex",
+        "hebrew": "אגף, תוספת, לספח, לצרף"
+    },
+    {
+        "english": "annoy",
+        "hebrew": "להרגיז"
+    },
+    {
+        "english": "anxiety",
+        "hebrew": "חרדה"
+    },
+    {
+        "english": "anxious",
+        "hebrew": "חרד, מודאג, משתוקק"
+    },
+    {
+        "english": "apartment",
+        "hebrew": "דירה"
+    },
+    {
+        "english": "appear",
+        "hebrew": "להיראות, להופיע"
+    },
+    {
+        "english": "applaud",
+        "hebrew": "להריע, למחוא כף"
+    },
+    {
+        "english": "apply",
+        "hebrew": "להגיש בקשה, להגיש מועמדות, לשים, להפעיל"
+    },
+    {
+        "english": "apposite",
+        "hebrew": "מתאים מאד, הולם"
+    },
+    {
+        "english": "appreciate",
+        "hebrew": "להעריך"
+    },
+    {
+        "english": "approach",
+        "hebrew": "להתקדם, לגשת, התקדמות, גישה, לפנות"
+    },
+    {
+        "english": "appropriate",
+        "hebrew": "נאות, מתאים, להקציב, לקחת לעצמו"
+    },
+    {
+        "english": "appropriately",
+        "hebrew": "באופן הולם, בצורה נאותה"
+    },
+    {
+        "english": "approval",
+        "hebrew": "אישור, הסכמה"
+    },
+    {
+        "english": "approve",
+        "hebrew": "להסכים, לאשר"
+    },
+    {
+        "english": "background",
+        "hebrew": "רקע"
+    },
+    {
+        "english": "balance",
+        "hebrew": "מאזניים, איזון, שיווי משקל, לאזן"
+    },
+    {
+        "english": "bamboozle",
+        "hebrew": "לבלבל, לרמות"
+    },
+    {
+        "english": "ban",
+        "hebrew": "להחרים, לאסור, חרם, איסור"
+    },
+    {
+        "english": "band",
+        "hebrew": "להקה"
+    },
+    {
+        "english": "barefoot",
+        "hebrew": "יחף"
+    },
+    {
+        "english": "barely",
+        "hebrew": "בקושי"
+    },
+    {
+        "english": "barrack",
+        "hebrew": "לצעוק ולצחוק בגסות"
+    },
+    {
+        "english": "barracks",
+        "hebrew": "מגורי חיילים"
+    },
+    {
+        "english": "barrier",
+        "hebrew": "מחסום"
+    },
+    {
+        "english": "base",
+        "hebrew": "בסיס, שפל"
+    },
+    {
+        "english": "base",
+        "hebrew": "on לבסס על"
+    },
+    {
+        "english": "basin",
+        "hebrew": "גיגית, אגם מים, קערה"
+    },
+    {
+        "english": "bathroom",
+        "hebrew": "חדר אמבטיה"
+    },
+    {
+        "english": "be",
+        "hebrew": "aware of להיות מודע"
+    },
+    {
+        "english": "bedroom",
+        "hebrew": "חדר שינה"
+    },
+    {
+        "english": "beforehand",
+        "hebrew": "מראש"
+    },
+    {
+        "english": "begin",
+        "hebrew": "להתחיל"
+    },
+    {
+        "english": "behavior",
+        "hebrew": "התנהגות"
+    },
+    {
+        "english": "bend",
+        "hebrew": "לעקם"
+    },
+    {
+        "english": "beneath",
+        "hebrew": "מתחת"
+    },
+    {
+        "english": "benefit",
+        "hebrew": "תועלת, תגמול, קצבה, הטבה, להרוויח, רווח"
+    },
+    {
+        "english": "besides",
+        "hebrew": "חוץ מזה, בנוסף על"
+    },
+    {
+        "english": "betray",
+        "hebrew": "לבגוד"
+    },
+    {
+        "english": "betrayal",
+        "hebrew": "בגידה"
+    },
+    {
+        "english": "between",
+        "hebrew": "בין"
+    },
+    {
+        "english": "bitter",
+        "hebrew": "מר, מכאיב, צורב"
+    },
+    {
+        "english": "bizarre",
+        "hebrew": "מוזר"
+    },
+    {
+        "english": "blaspheme",
+        "hebrew": "לחלל (דבר קדוש)"
+    },
+    {
+        "english": "blasphemy",
+        "hebrew": "חילול השם"
+    },
+    {
+        "english": "bleed",
+        "hebrew": "לדמם"
+    },
+    {
+        "english": "bloom",
+        "hebrew": "לפרוח, ללבלב"
+    },
+    {
+        "english": "borrow",
+        "hebrew": "לשאול חפץ, ללוות כסף"
+    },
+    {
+        "english": "bother",
+        "hebrew": "להטריד, טרחה"
+    },
+    {
+        "english": "bothersome",
+        "hebrew": "מטריד, מרגיז"
+    },
+    {
+        "english": "bottle",
+        "hebrew": "בקבוק"
+    },
+    {
+        "english": "bottomless",
+        "hebrew": "ללא תחתית"
+    },
+    {
+        "english": "branch",
+        "hebrew": "ענף"
+    },
+    {
+        "english": "brave",
+        "hebrew": "אמיץ"
+    },
+    {
+        "english": "bread",
+        "hebrew": "לחם"
+    },
+    {
+        "english": "breadth",
+        "hebrew": "רוחב"
+    },
+    {
+        "english": "break",
+        "hebrew": "לשבור"
+    },
+    {
+        "english": "breakdown",
+        "hebrew": "התמוטטות"
+    },
+    {
+        "english": "breakfast",
+        "hebrew": "ארוחת בוקר"
+    },
+    {
+        "english": "break-through",
+        "hebrew": "פריצת דרך"
+    },
+    {
+        "english": "breath",
+        "hebrew": "לנשום, נשימה"
+    },
+    {
+        "english": "bride",
+        "hebrew": "כלה"
+    },
+    {
+        "english": "bridle",
+        "hebrew": "רסן, לרסן, לשים רסן על..."
+    },
+    {
+        "english": "bright",
+        "hebrew": "מבריק, חכם, בוהק, מאיר"
+    },
+    {
+        "english": "bring",
+        "hebrew": "להביא"
+    },
+    {
+        "english": "broad",
+        "hebrew": "רחב, עצום, מלא, החלק הרחב"
+    },
+    {
+        "english": "broadcast",
+        "hebrew": "לשדר"
+    },
+    {
+        "english": "broaden",
+        "hebrew": "להרחיב"
+    },
+    {
+        "english": "brother",
+        "hebrew": "אח"
+    },
+    {
+        "english": "brutality",
+        "hebrew": "אכזריות"
+    },
+    {
+        "english": "brute",
+        "hebrew": "בהמה, פראי"
+    },
+    {
+        "english": "brutish",
+        "hebrew": "בהמי, אכזרי"
+    },
+    {
+        "english": "brutishly",
+        "hebrew": "בבהמיות, באכזריות"
+    },
+    {
+        "english": "budget",
+        "hebrew": "לתקצב, תקציב"
+    },
+    {
+        "english": "buffoon",
+        "hebrew": "ליצן"
+    },
+    {
+        "english": "clarification",
+        "hebrew": "הבהרה, טיהור"
+    },
+    {
+        "english": "clarify",
+        "hebrew": "להבהיר, לטהר"
+    },
+    {
+        "english": "classify",
+        "hebrew": "לסווג"
+    },
+    {
+        "english": "clean",
+        "hebrew": "נקי"
+    },
+    {
+        "english": "clear",
+        "hebrew": "בהיר, צלול, משוחרר, לסלק, לטהר, לפנות"
+    },
+    {
+        "english": "clever",
+        "hebrew": "פיקח"
+    },
+    {
+        "english": "climate",
+        "hebrew": "אקלים"
+    },
+    {
+        "english": "clock",
+        "hebrew": "שעון"
+    },
+    {
+        "english": "cloud",
+        "hebrew": "ענן"
+    },
+    {
+        "english": "coin",
+        "hebrew": "מטבע"
+    },
+    {
+        "english": "collaborate",
+        "hebrew": "לשתף פעולה"
+    },
+    {
+        "english": "collaboration",
+        "hebrew": "שיתוף פעולה"
+    },
+    {
+        "english": "collapse",
+        "hebrew": "להתמוטט, התמוטטות, לקפל"
+    },
+    {
+        "english": "collect",
+        "hebrew": "לאסוף"
+    },
+    {
+        "english": "come",
+        "hebrew": "לבוא"
+    },
+    {
+        "english": "commence",
+        "hebrew": "להתחיל"
+    },
+    {
+        "english": "commensurate",
+        "hebrew": "תואם"
+    },
+    {
+        "english": "commerce",
+        "hebrew": "מסחר"
+    },
+    {
+        "english": "commercial",
+        "hebrew": "מסחרי, פרסומת"
+    },
+    {
+        "english": "commiserate",
+        "hebrew": "להשתתף בצער"
+    },
+    {
+        "english": "common",
+        "hebrew": "נפוץ"
+    },
+    {
+        "english": "communicate",
+        "hebrew": "לתקשר"
+    },
+    {
+        "english": "communication",
+        "hebrew": "תקשורת"
+    },
+    {
+        "english": "communicative",
+        "hebrew": "מוכן לתקשר"
+    },
+    {
+        "english": "commute",
+        "hebrew": "נסיעה משותפת מפרברים לעבודה בעיר, להחליף"
+    },
+    {
+        "english": "company",
+        "hebrew": "חברה, פלוגה"
+    },
+    {
+        "english": "comparable",
+        "hebrew": "ניתן להשוואה"
+    },
+    {
+        "english": "comparative",
+        "hebrew": "יחסי, השוואתי"
+    },
+    {
+        "english": "compare",
+        "hebrew": "להשוות"
+    },
+    {
+        "english": "comparison",
+        "hebrew": "השוואה"
+    },
+    {
+        "english": "compatible",
+        "hebrew": "מתאים, הולם, תואם"
+    },
+    {
+        "english": "compete",
+        "hebrew": "להתחרות"
+    },
+    {
+        "english": "competition",
+        "hebrew": "תחרות"
+    },
+    {
+        "english": "competitive",
+        "hebrew": "תחרותי"
+    },
+    {
+        "english": "complain",
+        "hebrew": "להתלונן"
+    },
+    {
+        "english": "complaisance",
+        "hebrew": "אדיבות, נכונות לרצות אחרים"
+    },
+    {
+        "english": "completely",
+        "hebrew": "לחלוטין"
+    },
+    {
+        "english": "complex",
+        "hebrew": "תשלובת, מורכב"
+    },
+    {
+        "english": "complexity",
+        "hebrew": "מורכבות, סיבוך"
+    },
+    {
+        "english": "component",
+        "hebrew": "חלק, מרכיב, רכיב"
+    },
+    {
+        "english": "compose",
+        "hebrew": "להרכיב, להלחין"
+    },
+    {
+        "english": "composite",
+        "hebrew": "מורכב"
+    },
+    {
+        "english": "composition",
+        "hebrew": "הרכב, חיבור"
+    },
+    {
+        "english": "compulsion",
+        "hebrew": "כפייה"
+    },
+    {
+        "english": "compulsive",
+        "hebrew": "כפייתי"
+    },
+    {
+        "english": "compulsory",
+        "hebrew": "חובה"
+    },
+    {
+        "english": "conceive",
+        "hebrew": "לחשוב על..., להרות"
+    },
+    {
+        "english": "concentrate",
+        "hebrew": "להתרכז"
+    },
+    {
+        "english": "concern",
+        "hebrew": "דאגה, עניין, לדאוג, להתעניין"
+    },
+    {
+        "english": "conclude",
+        "hebrew": "לסיים, להסיק"
+    },
+    {
+        "english": "conclusion",
+        "hebrew": "סיום, מסקנה"
+    },
+    {
+        "english": "conclusive",
+        "hebrew": "מכריע"
+    },
+    {
+        "english": "concurred",
+        "hebrew": "with להתרחש בו זמנית, להתאים"
+    },
+    {
+        "english": "condemn",
+        "hebrew": "להרשיע, לגנות"
+    },
+    {
+        "english": "conduct",
+        "hebrew": "התנהגות, לנהל, להוביל"
+    },
+    {
+        "english": "confess",
+        "hebrew": "להודות, להתוודות"
+    },
+    {
+        "english": "confidence",
+        "hebrew": "אמון, סוד"
+    },
+    {
+        "english": "confident",
+        "hebrew": "בטוח"
+    },
+    {
+        "english": "confidential",
+        "hebrew": "סודי, חשאי"
+    },
+    {
+        "english": "confine",
+        "hebrew": "להגביל"
+    },
+    {
+        "english": "build",
+        "hebrew": "לבנות"
+    },
+    {
+        "english": "building",
+        "hebrew": "בניין"
+    },
+    {
+        "english": "birch",
+        "hebrew": "עץ ליבנה"
+    },
+    {
+        "english": "burden",
+        "hebrew": "עול"
+    },
+    {
+        "english": "burn",
+        "hebrew": "לשרוף"
+    },
+    {
+        "english": "bus",
+        "hebrew": "stop תחנת אוטובוס"
+    },
+    {
+        "english": "bush",
+        "hebrew": "שיח"
+    },
+    {
+        "english": "business",
+        "hebrew": "עסקים"
+    },
+    {
+        "english": "busy",
+        "hebrew": "עסוק"
+    },
+    {
+        "english": "butter",
+        "hebrew": "חמאה"
+    },
+    {
+        "english": "button",
+        "hebrew": "כפתור"
+    },
+    {
+        "english": "buttress",
+        "hebrew": "משען, תימוכין, לחזק, לתמוך"
+    },
+    {
+        "english": "buy",
+        "hebrew": "לקנות"
+    },
+    {
+        "english": "by",
+        "hebrew": "all means בהחלט"
+    },
+    {
+        "english": "by",
+        "hebrew": "no means בשום אופן לא"
+    },
+    {
+        "english": "bypass",
+        "hebrew": "לעקוף, מעקף"
+    },
+    {
+        "english": "calculate",
+        "hebrew": "לחשב, לתכנן"
+    },
+    {
+        "english": "calm",
+        "hebrew": "רוגע, להרגע"
+    },
+    {
+        "english": "camouflage",
+        "hebrew": "הסוואה"
+    },
+    {
+        "english": "candid",
+        "hebrew": "כן, גלוי לב"
+    },
+    {
+        "english": "candidly",
+        "hebrew": "בכנות"
+    },
+    {
+        "english": "candle",
+        "hebrew": "נר"
+    },
+    {
+        "english": "capable",
+        "hebrew": "מסוגל, מוכשר"
+    },
+    {
+        "english": "capital",
+        "hebrew": "עיר בירה, אות גדולה, הון, הון, הון"
+    },
+    {
+        "english": "carcass",
+        "hebrew": "פגר"
+    },
+    {
+        "english": "care",
+        "hebrew": "אכפתיות, דאגה, לדאוג"
+    },
+    {
+        "english": "carpet",
+        "hebrew": "שטיח"
+    },
+    {
+        "english": "casual",
+        "hebrew": "לבוש לא רשמי, מקרי"
+    },
+    {
+        "english": "catastrophe",
+        "hebrew": "אסון"
+    },
+    {
+        "english": "catastrophic",
+        "hebrew": "הרה אסון"
+    },
+    {
+        "english": "caused",
+        "hebrew": "by נגרם על ידי"
+    },
+    {
+        "english": "cease",
+        "hebrew": "לחדול, להפסיק"
+    },
+    {
+        "english": "ceaseless",
+        "hebrew": "ללא הפסק"
+    },
+    {
+        "english": "cede",
+        "hebrew": "לוותר על"
+    },
+    {
+        "english": "century",
+        "hebrew": "מאה"
+    },
+    {
+        "english": "ceremony",
+        "hebrew": "טקס"
+    },
+    {
+        "english": "certain",
+        "hebrew": "בטוח, ודאי, מסויים"
+    },
+    {
+        "english": "certainly",
+        "hebrew": "ללא ספק, בודאות"
+    },
+    {
+        "english": "certainty",
+        "hebrew": "ודאות, דבר בטוח"
+    },
+    {
+        "english": "certify",
+        "hebrew": "לאשר"
+    },
+    {
+        "english": "chain",
+        "hebrew": "שרשרת"
+    },
+    {
+        "english": "challenge",
+        "hebrew": "לקרוא תיגר, לאתגר, אתגר"
+    },
+    {
+        "english": "change",
+        "hebrew": "שינוי, לשנות, להחליף"
+    },
+    {
+        "english": "chaos",
+        "hebrew": "תוהו ובוהו"
+    },
+    {
+        "english": "chaotic",
+        "hebrew": "פרוע, של תוהו ובוהו"
+    },
+    {
+        "english": "character",
+        "hebrew": "אופי, אישיות, דמות"
+    },
+    {
+        "english": "characteristic",
+        "hebrew": "אופייני, תכונה בולטת"
+    },
+    {
+        "english": "charity",
+        "hebrew": "צדקה"
+    },
+    {
+        "english": "chauffeur",
+        "hebrew": "נהג"
+    },
+    {
+        "english": "cheap",
+        "hebrew": "זול"
+    },
+    {
+        "english": "cheese",
+        "hebrew": "גבינה"
+    },
+    {
+        "english": "cherish",
+        "hebrew": "לטפח, להוקיר"
+    },
+    {
+        "english": "chicken",
+        "hebrew": "עוף"
+    },
+    {
+        "english": "chiefly",
+        "hebrew": "בעיקר"
+    },
+    {
+        "english": "child",
+        "hebrew": "ילד/ה"
+    },
+    {
+        "english": "choose",
+        "hebrew": "לבחור"
+    },
+    {
+        "english": "cite",
+        "hebrew": "לצטט, לזמן למשפט"
+    },
+    {
+        "english": "civilization",
+        "hebrew": "תרבות"
+    },
+    {
+        "english": "civilize",
+        "hebrew": "לתרבת"
+    },
+    {
+        "english": "claim",
+        "hebrew": "לטעון, לתבוע, טענה, תביעה"
+    },
+    {
+        "english": "confines",
+        "hebrew": "גבולות"
+    },
+    {
+        "english": "conflict",
+        "hebrew": "ניגוד, סכסוך, לסתור"
+    },
+    {
+        "english": "confront",
+        "hebrew": "לעמת"
+    },
+    {
+        "english": "confrontation",
+        "hebrew": "עימות"
+    },
+    {
+        "english": "conquer",
+        "hebrew": "לכבוש"
+    },
+    {
+        "english": "conquest",
+        "hebrew": "כיבוש, ניצחון"
+    },
+    {
+        "english": "conscience",
+        "hebrew": "מצפון"
+    },
+    {
+        "english": "conscientious",
+        "hebrew": "מודרך על יד מצפונו"
+    },
+    {
+        "english": "conscious",
+        "hebrew": "בעל הכרה"
+    },
+    {
+        "english": "consciously",
+        "hebrew": "במודע"
+    },
+    {
+        "english": "consciousness",
+        "hebrew": "הכרה, מודעות"
+    },
+    {
+        "english": "consequence",
+        "hebrew": "תוצאה"
+    },
+    {
+        "english": "consequent",
+        "hebrew": "בא כתוצאה"
+    },
+    {
+        "english": "consequential",
+        "hebrew": "חשוב, מכריע"
+    },
+    {
+        "english": "consequently",
+        "hebrew": "כתוצאה מכך"
+    },
+    {
+        "english": "consider",
+        "hebrew": "לשקול, לחשוב על"
+    },
+    {
+        "english": "considerable",
+        "hebrew": "ניכר, חשוב"
+    },
+    {
+        "english": "considerate",
+        "hebrew": "מתחשב"
+    },
+    {
+        "english": "consideration",
+        "hebrew": "התחשבות, עיון"
+    },
+    {
+        "english": "consist",
+        "hebrew": "מורכב מ..."
+    },
+    {
+        "english": "consistency",
+        "hebrew": "עקביות, סמיכות"
+    },
+    {
+        "english": "consistent",
+        "hebrew": "עקבי"
+    },
+    {
+        "english": "conspicuous",
+        "hebrew": "בולט"
+    },
+    {
+        "english": "constant",
+        "hebrew": "קבוע, תמידי"
+    },
+    {
+        "english": "consternation",
+        "hebrew": "תדהמה, פחד"
+    },
+    {
+        "english": "constituent",
+        "hebrew": "מכונן, מרכיב"
+    },
+    {
+        "english": "constitute",
+        "hebrew": "לכונן, להרכיב"
+    },
+    {
+        "english": "constitution",
+        "hebrew": "הרכב, חוקה"
+    },
+    {
+        "english": "consult",
+        "hebrew": "להתייעץ"
+    },
+    {
+        "english": "consume",
+        "hebrew": "לשתות, לאכול, לצרוך, לכלות"
+    },
+    {
+        "english": "consumer",
+        "hebrew": "צרכן"
+    },
+    {
+        "english": "contemporary",
+        "hebrew": "עכשווי, בן זמננו, בן אותו זמן"
+    },
+    {
+        "english": "content",
+        "hebrew": "תוכן, להיות שבע רצון, שביעות רצון"
+    },
+    {
+        "english": "contention",
+        "hebrew": "מחלוקת"
+    },
+    {
+        "english": "contentious",
+        "hebrew": "מעורר מחלוקת"
+    },
+    {
+        "english": "continent",
+        "hebrew": "יבשת"
+    },
+    {
+        "english": "continue",
+        "hebrew": "להמשיך"
+    },
+    {
+        "english": "contract",
+        "hebrew": "חוזה, להתחייב בחוזה, לכווץ, לקצר"
+    },
+    {
+        "english": "contradict",
+        "hebrew": "לסתור"
+    },
+    {
+        "english": "contradiction",
+        "hebrew": "סתירה"
+    },
+    {
+        "english": "contrary",
+        "hebrew": "מנוגד, הפוך, ההיפך"
+    },
+    {
+        "english": "contrast",
+        "hebrew": "ניגוד, להנגיד, להשוות"
+    },
+    {
+        "english": "contribute",
+        "hebrew": "לתרום"
+    },
+    {
+        "english": "contribution",
+        "hebrew": "תרומה"
+    },
+    {
+        "english": "contributory",
+        "hebrew": "תורם, מסייע"
+    },
+    {
+        "english": "convalesce",
+        "hebrew": "להחלים"
+    },
+    {
+        "english": "convalescence",
+        "hebrew": "החלמה"
+    },
+    {
+        "english": "conversation",
+        "hebrew": "שיחה"
+    },
+    {
+        "english": "converse",
+        "hebrew": "לשוחח, ההיפך, מנוגד"
+    },
+    {
+        "english": "conversion",
+        "hebrew": "המרה, חזרה בתשובה"
+    },
+    {
+        "english": "convict",
+        "hebrew": "אסיר בכלא, להרשיע"
+    },
+    {
+        "english": "conviction",
+        "hebrew": "הרשעה, שכנוע עצמי"
+    },
+    {
+        "english": "convince",
+        "hebrew": "לשכנע"
+    },
+    {
+        "english": "cooperate",
+        "hebrew": "לשתף פעולה"
+    },
+    {
+        "english": "coordination",
+        "hebrew": "תיאום, קואורדינציה"
+    },
+    {
+        "english": "copy",
+        "hebrew": "להעתיק, עותק"
+    },
+    {
+        "english": "corner",
+        "hebrew": "פינה"
+    },
+    {
+        "english": "corollary",
+        "hebrew": "תוספת, תולדה"
+    },
+    {
+        "english": "correspond",
+        "hebrew": "להיות תואם, להתכתב"
+    },
+    {
+        "english": "correspondence",
+        "hebrew": "התאמה, התכתבות"
+    },
+    {
+        "english": "corresponding",
+        "hebrew": "תואם"
+    },
+    {
+        "english": "corruption",
+        "hebrew": "שחיתות"
+    },
+    {
+        "english": "cost",
+        "hebrew": "לעלות , עלות"
+    },
+    {
+        "english": "cough",
+        "hebrew": "להשתעל"
+    },
+    {
+        "english": "country",
+        "hebrew": "מדינה"
+    },
+    {
+        "english": "course",
+        "hebrew": "מסלול, דרך, לזרום"
+    },
+    {
+        "english": "creature",
+        "hebrew": "יצור"
+    },
+    {
+        "english": "creed",
+        "hebrew": "עיקרי אמונה"
+    },
+    {
+        "english": "creep",
+        "hebrew": "להתגנב, לזחול"
+    },
+    {
+        "english": "crisis",
+        "hebrew": "משבר"
+    },
+    {
+        "english": "critic",
+        "hebrew": "מבקר"
+    },
+    {
+        "english": "critical",
+        "hebrew": "מכריע, ביקורתי"
+    },
+    {
+        "english": "criticism",
+        "hebrew": "ביקורת"
+    },
+    {
+        "english": "criticize",
+        "hebrew": "לבקר (להעביר ביקורת)"
+    },
+    {
+        "english": "critique",
+        "hebrew": "מאמר ביקורת"
+    },
+    {
+        "english": "crop",
+        "hebrew": "יבול"
+    },
+    {
+        "english": "crowd",
+        "hebrew": "קהל, המון, להתקהל"
+    },
+    {
+        "english": "crowded",
+        "hebrew": "צפוף"
+    },
+    {
+        "english": "cruise",
+        "hebrew": "הפלגה, שיט"
+    },
+    {
+        "english": "cucumber",
+        "hebrew": "מלפפון"
+    },
+    {
+        "english": "culminate",
+        "hebrew": "להגיע לשיא"
+    },
+    {
+        "english": "culture",
+        "hebrew": "תרבות"
+    },
+    {
+        "english": "cumulative",
+        "hebrew": "מצטבר"
+    },
+    {
+        "english": "cup",
+        "hebrew": "כוס, ספל"
+    },
+    {
+        "english": "cupboard",
+        "hebrew": "ארון כלים"
+    },
+    {
+        "english": "cure",
+        "hebrew": "תרופה"
+    },
+    {
+        "english": "curl",
+        "hebrew": "להסתלסל, להתכווץ"
+    },
+    {
+        "english": "current",
+        "hebrew": "נוכחי, עכשווי, שוטף, זרם"
+    },
+    {
+        "english": "currently",
+        "hebrew": "כעת"
+    },
+    {
+        "english": "curriculum",
+        "hebrew": "תוכנית לימודים"
+    },
+    {
+        "english": "cut",
+        "hebrew": "לחתוך"
+    },
+    {
+        "english": "cycle",
+        "hebrew": "מחזור, גלגל, אופן, לרכוב על אופניים"
+    },
+    {
+        "english": "daily",
+        "hebrew": "יומי"
+    },
+    {
+        "english": "damage",
+        "hebrew": "נזק, להזיק, לגרום נזק"
+    },
+    {
+        "english": "data",
+        "hebrew": "נתונים (יחיד - datum)"
+    },
+    {
+        "english": "date",
+        "hebrew": "תאריך, פגישה, דייט"
+    },
+    {
+        "english": "daughter",
+        "hebrew": "בת"
+    },
+    {
+        "english": "dawdle",
+        "hebrew": "להתבטל"
+    },
+    {
+        "english": "dawn",
+        "hebrew": "שחר, זריחה, לזרוח, להיעשות ברור"
+    },
+    {
+        "english": "de",
+        "hebrew": "facto הלכה למעשה (בניגוד ל-de jure -על הנייר בלבד)"
+    },
+    {
+        "english": "decade",
+        "hebrew": "עשור"
+    },
+    {
+        "english": "deceit",
+        "hebrew": "רמאות, הונאה"
+    },
+    {
+        "english": "declaration",
+        "hebrew": "הצהרה"
+    },
+    {
+        "english": "declare",
+        "hebrew": "להצהיר"
+    },
+    {
+        "english": "decline",
+        "hebrew": "לסרב, לרדת, להדרדר, לשקוע, שקיעה ,מדרון"
+    },
+    {
+        "english": "deduce",
+        "hebrew": "להסיק, להקיש (לוגית)"
+    },
+    {
+        "english": "deducible",
+        "hebrew": "ניתן להיקש"
+    },
+    {
+        "english": "deduction",
+        "hebrew": "היקש (לוגי)"
+    },
+    {
+        "english": "deed",
+        "hebrew": "מעשה"
+    },
+    {
+        "english": "deep",
+        "hebrew": "עמוק"
+    },
+    {
+        "english": "deer",
+        "hebrew": "צבי, צבאים"
+    },
+    {
+        "english": "defamation",
+        "hebrew": "השמצה, הכפשה"
+    },
+    {
+        "english": "defeat",
+        "hebrew": "תבטסה, להביס"
+    },
+    {
+        "english": "defect",
+        "hebrew": "פגם, לערוק"
+    },
+    {
+        "english": "defection",
+        "hebrew": "עריקה"
+    },
+    {
+        "english": "defective",
+        "hebrew": "פגום"
+    },
+    {
+        "english": "defend",
+        "hebrew": "להגן"
+    },
+    {
+        "english": "defense",
+        "hebrew": "הגנה"
+    },
+    {
+        "english": "defiance",
+        "hebrew": "סירוב בתוקף, מרי"
+    },
+    {
+        "english": "defiant",
+        "hebrew": "סרבן"
+    },
+    {
+        "english": "deficiency",
+        "hebrew": "מחסור, גירעון"
+    },
+    {
+        "english": "deficient",
+        "hebrew": "חסר, נטול משהו"
+    },
+    {
+        "english": "definite",
+        "hebrew": "מוחלט, ברור, מדוייק, מוגדר, מוגבל"
+    },
+    {
+        "english": "definitely",
+        "hebrew": "בהחלט"
+    },
+    {
+        "english": "definitive",
+        "hebrew": "סופי ומוחלט"
+    },
+    {
+        "english": "defy",
+        "hebrew": "לסרב בתוקף"
+    },
+    {
+        "english": "deliberate",
+        "hebrew": "להרהר, לשקול אפשרויות, במכוון"
+    },
+    {
+        "english": "deliberately",
+        "hebrew": "בכוונה תחילה"
+    },
+    {
+        "english": "deliberation",
+        "hebrew": "הרהור"
+    },
+    {
+        "english": "deliberative",
+        "hebrew": "שנעשה בכוונה תחילה"
+    },
+    {
+        "english": "deliver",
+        "hebrew": "למסור"
+    },
+    {
+        "english": "demand",
+        "hebrew": "לדרוש, דרישה"
+    },
+    {
+        "english": "demented",
+        "hebrew": "משוגע"
+    },
+    {
+        "english": "demonstrate",
+        "hebrew": "להפגין, להדגים"
+    },
+    {
+        "english": "demonstration",
+        "hebrew": "הוכחה, הפגנה, הדגמה"
+    },
+    {
+        "english": "dense",
+        "hebrew": "צפוף"
+    },
+    {
+        "english": "dentist",
+        "hebrew": "רופא שיניים"
+    },
+    {
+        "english": "deny",
+        "hebrew": "להכחיש, להימנע"
+    },
+    {
+        "english": "depart",
+        "hebrew": "לפרוש, לצאת"
+    },
+    {
+        "english": "department",
+        "hebrew": "מחלקה"
+    },
+    {
+        "english": "depict",
+        "hebrew": "לצייר, לתאר"
+    },
+    {
+        "english": "depressed",
+        "hebrew": "מדוכא"
+    },
+    {
+        "english": "derivation",
+        "hebrew": "הוכחה (לוגית), הפקה"
+    },
+    {
+        "english": "derive",
+        "hebrew": "להסיק (לוגית), להפיק"
+    },
+    {
+        "english": "desert",
+        "hebrew": "לנטוש, מדבר"
+    },
+    {
+        "english": "desirable",
+        "hebrew": "רצוי , נחשק"
+    },
+    {
+        "english": "desire",
+        "hebrew": "להשתוקק, תשוקה"
+    },
+    {
+        "english": "desk",
+        "hebrew": "שולחן עבודה"
+    },
+    {
+        "english": "despite",
+        "hebrew": "למרות"
+    },
+    {
+        "english": "destination",
+        "hebrew": "יעד"
+    },
+    {
+        "english": "destiny",
+        "hebrew": "גורל, ייעוד"
+    },
+    {
+        "english": "destroy",
+        "hebrew": "להרוס"
+    },
+    {
+        "english": "destruction",
+        "hebrew": "הרס"
+    },
+    {
+        "english": "detail",
+        "hebrew": "פרט"
+    },
+    {
+        "english": "detain",
+        "hebrew": "לעכב"
+    },
+    {
+        "english": "detect",
+        "hebrew": "לגלות, לאתר"
+    },
+    {
+        "english": "detection",
+        "hebrew": "מלאכת האיתור"
+    },
+    {
+        "english": "detective",
+        "hebrew": "בלש"
+    },
+    {
+        "english": "deter",
+        "hebrew": "להרתיע, למנוע"
+    },
+    {
+        "english": "deteriorate",
+        "hebrew": "להדרדר, להחמיר"
+    },
+    {
+        "english": "deterioration",
+        "hebrew": "הדרדרות"
+    },
+    {
+        "english": "determination",
+        "hebrew": "קביעה, נחישות"
+    },
+    {
+        "english": "determine",
+        "hebrew": "להכריע, לקבוע, להחליט"
+    },
+    {
+        "english": "deterrent",
+        "hebrew": "מעכב, מונע"
+    },
+    {
+        "english": "devastate",
+        "hebrew": "לזרוע חורבן"
+    },
+    {
+        "english": "develop",
+        "hebrew": "לפתח, להתפתח"
+    },
+    {
+        "english": "device",
+        "hebrew": "כלי, מכשיר"
+    },
+    {
+        "english": "devise",
+        "hebrew": "להגות תוכנית"
+    },
+    {
+        "english": "devote",
+        "hebrew": "להקדיש, להתמסר"
+    },
+    {
+        "english": "devotion",
+        "hebrew": "התמסרות"
+    },
+    {
+        "english": "differ",
+        "hebrew": "לחלוק על..., להיות שונה, לא להסכים"
+    },
+    {
+        "english": "diffuse",
+        "hebrew": "להתפשט לכל עבר, להתערבב, להפיץ, מבולבל, חסר סדר"
+    },
+    {
+        "english": "diffusion",
+        "hebrew": "תערובת"
+    },
+    {
+        "english": "dig",
+        "hebrew": "לחפור"
+    },
+    {
+        "english": "dilemma",
+        "hebrew": "דילמה, התלבטות בין שתי ברירות"
+    },
+    {
+        "english": "dimension",
+        "hebrew": "מידה, כמות, היקף, מימד"
+    },
+    {
+        "english": "diminish",
+        "hebrew": "להפחית"
+    },
+    {
+        "english": "dinner",
+        "hebrew": "ארוחת ערב"
+    },
+    {
+        "english": "dirty",
+        "hebrew": "מלוכלך"
+    },
+    {
+        "english": "disabled",
+        "hebrew": "בעל מוגבלות, נכה"
+    },
+    {
+        "english": "disadvantage",
+        "hebrew": "חיסרון"
+    },
+    {
+        "english": "disappointment",
+        "hebrew": "אכזבה"
+    },
+    {
+        "english": "disaster",
+        "hebrew": "אסון"
+    },
+    {
+        "english": "disastrous",
+        "hebrew": "נוראי"
+    },
+    {
+        "english": "discipline",
+        "hebrew": "תחום (במדע), דיסציפלינה, למשמע, להשליט משמעת, לחנך, משמעת"
+    },
+    {
+        "english": "discover",
+        "hebrew": "לגלות"
+    },
+    {
+        "english": "discovery",
+        "hebrew": "תגלית"
+    },
+    {
+        "english": "discrepancy",
+        "hebrew": "אי התאמה, העדר הסכמה"
+    },
+    {
+        "english": "discriminate",
+        "hebrew": "להבחין, להפלות"
+    },
+    {
+        "english": "discuss",
+        "hebrew": "לדון"
+    },
+    {
+        "english": "discussion",
+        "hebrew": "דיון"
+    },
+    {
+        "english": "disease",
+        "hebrew": "מחלה"
+    },
+    {
+        "english": "disinfect",
+        "hebrew": "לחטא"
+    },
+    {
+        "english": "dispensable",
+        "hebrew": "לא הכרחי, שניתן להסתדר בלעדיו"
+    },
+    {
+        "english": "displace",
+        "hebrew": "לעקור ממקומו, להחליף את מקומו"
+    },
+    {
+        "english": "display",
+        "hebrew": "הצגה (לראווה)"
+    },
+    {
+        "english": "dispose",
+        "hebrew": "לארגן משהו, לזרוק, להיפטר מ..."
+    },
+    {
+        "english": "disqualify",
+        "hebrew": "לפסול, לשלול"
+    },
+    {
+        "english": "disregard",
+        "hebrew": "להתעלם"
+    },
+    {
+        "english": "distance",
+        "hebrew": "מרחק"
+    },
+    {
+        "english": "distinct",
+        "hebrew": "מיוחד, נפרד, ברור"
+    },
+    {
+        "english": "distinction",
+        "hebrew": "ייחוד, אבחנה, , הצטיינות"
+    },
+    {
+        "english": "distinguish",
+        "hebrew": "להבחין, להפריד"
+    },
+    {
+        "english": "distort",
+        "hebrew": "לעוות, לסלף, לעקם"
+    },
+    {
+        "english": "distortion",
+        "hebrew": "עיוות"
+    },
+    {
+        "english": "distract",
+        "hebrew": "להסיח דעת"
+    },
+    {
+        "english": "distraction",
+        "hebrew": "מסיח, הסחת דעת"
+    },
+    {
+        "english": "distribute",
+        "hebrew": "לחלק"
+    },
+    {
+        "english": "distribution",
+        "hebrew": "חלוקה, הפצה"
+    },
+    {
+        "english": "disturb",
+        "hebrew": "להפריע"
+    },
+    {
+        "english": "divergence",
+        "hebrew": "התפצלות, סטייה"
+    },
+    {
+        "english": "diverse",
+        "hebrew": "מגוון"
+    },
+    {
+        "english": "diversify",
+        "hebrew": "לגוון"
+    },
+    {
+        "english": "diversion",
+        "hebrew": "פעילות לשעות הפנאי, פעולת הסחה"
+    },
+    {
+        "english": "do",
+        "hebrew": "לעשות"
+    },
+    {
+        "english": "docile",
+        "hebrew": "קל לשליטה, צייתן"
+    },
+    {
+        "english": "docility",
+        "hebrew": "כניעות, צייתנות"
+    },
+    {
+        "english": "domestic",
+        "hebrew": "ביתי"
+    },
+    {
+        "english": "dominate",
+        "hebrew": "לשלוט, להיות דומיננטי"
+    },
+    {
+        "english": "donation",
+        "hebrew": "מתנה, תרומה"
+    },
+    {
+        "english": "donkey",
+        "hebrew": "חמור"
+    },
+    {
+        "english": "doom",
+        "hebrew": "לדון מישהו, לגזור על מישהו, אסון, אבדון, יום הדין"
+    },
+    {
+        "english": "dote",
+        "hebrew": "לחבב יתר על המידה, \"לחנוק באהבה\""
+    },
+    {
+        "english": "doubt",
+        "hebrew": "להטיל ספק, ספק"
+    },
+    {
+        "english": "doubtful",
+        "hebrew": "מפוקפק"
+    },
+    {
+        "english": "dozen",
+        "hebrew": "תריסר"
+    },
+    {
+        "english": "drab",
+        "hebrew": "חום-אפרפר, משעמם, \"אפור\""
+    },
+    {
+        "english": "drawing",
+        "hebrew": "ציור"
+    },
+    {
+        "english": "dread",
+        "hebrew": "לפחד, לחשוש, פחד, אימה"
+    },
+    {
+        "english": "drift",
+        "hebrew": "להיסחף, לסחוף, סחף, מגמה"
+    },
+    {
+        "english": "drink",
+        "hebrew": "לשתות"
+    },
+    {
+        "english": "drop",
+        "hebrew": "להפיל, טיפה"
+    },
+    {
+        "english": "drug",
+        "hebrew": "סם"
+    },
+    {
+        "english": "dry",
+        "hebrew": "יבש"
+    },
+    {
+        "english": "dubious",
+        "hebrew": "מפוקפק"
+    },
+    {
+        "english": "due",
+        "hebrew": "חל, צפוי"
+    },
+    {
+        "english": "due",
+        "hebrew": "to בשל, בגלל"
+    },
+    {
+        "english": "duplicate",
+        "hebrew": "לשכפל"
+    },
+    {
+        "english": "durable",
+        "hebrew": "מחזיק מעמד, מאריך ימים"
+    },
+    {
+        "english": "duty",
+        "hebrew": "חובה"
+    },
+    {
+        "english": "dwindle",
+        "hebrew": "להתמעט, להיעשות קטן ויותר, להתדלדל"
+    },
+    {
+        "english": "dynamic",
+        "hebrew": "רב עוצמה, פעיל"
+    },
+    {
+        "english": "eager",
+        "hebrew": "להוט"
+    },
+    {
+        "english": "early",
+        "hebrew": "מוקדם"
+    },
+    {
+        "english": "ease",
+        "hebrew": "להקל"
+    },
+    {
+        "english": "east",
+        "hebrew": "מזרח"
+    },
+    {
+        "english": "eavesdrop",
+        "hebrew": "לצותת"
+    },
+    {
+        "english": "eclectic",
+        "hebrew": "אוסף \"מפה ומשם\""
+    },
+    {
+        "english": "eclipse",
+        "hebrew": "ליקוי"
+    },
+    {
+        "english": "editor",
+        "hebrew": "עורך"
+    },
+    {
+        "english": "effect",
+        "hebrew": "השפעה"
+    },
+    {
+        "english": "efficiency",
+        "hebrew": "יעילות"
+    },
+    {
+        "english": "efficient",
+        "hebrew": "יעיל"
+    },
+    {
+        "english": "effort",
+        "hebrew": "מאמץ"
+    },
+    {
+        "english": "elaborate",
+        "hebrew": "מתוכנן, עשוי בקפידה, להרחיב, לפרט"
+    },
+    {
+        "english": "elderly",
+        "hebrew": "זקן, מבוגר מ..."
+    },
+    {
+        "english": "elevator",
+        "hebrew": "מעלית"
+    },
+    {
+        "english": "eliminate",
+        "hebrew": "לפסול"
+    },
+    {
+        "english": "elsewhere",
+        "hebrew": "במקום אחר"
+    },
+    {
+        "english": "embarrass",
+        "hebrew": "להביך"
+    },
+    {
+        "english": "embarrassing",
+        "hebrew": "מביך"
+    },
+    {
+        "english": "embassy",
+        "hebrew": "שגרירות"
+    },
+    {
+        "english": "embrace",
+        "hebrew": "לחבק,חיבוק, לקבל, לכלול"
+    },
+    {
+        "english": "emerge",
+        "hebrew": "להופיע בהדרגה"
+    },
+    {
+        "english": "emergence",
+        "hebrew": "הופעה הדרגתית, היווצרות"
+    },
+    {
+        "english": "emergent",
+        "hebrew": "ההולך ומתגבש, שזה עתה נוצר"
+    },
+    {
+        "english": "emigrate",
+        "hebrew": "להגר"
+    },
+    {
+        "english": "emigration",
+        "hebrew": "הגירה"
+    },
+    {
+        "english": "eminence",
+        "hebrew": "חשיבות"
+    },
+    {
+        "english": "eminent",
+        "hebrew": "דגול"
+    },
+    {
+        "english": "emotion",
+        "hebrew": "רגש"
+    },
+    {
+        "english": "emphasize",
+        "hebrew": "להדגיש"
+    },
+    {
+        "english": "employ",
+        "hebrew": "להעסיק, להשתמש"
+    },
+    {
+        "english": "employment",
+        "hebrew": "תעסוקה"
+    },
+    {
+        "english": "empty",
+        "hebrew": "ריק"
+    },
+    {
+        "english": "enable",
+        "hebrew": "לאפשר"
+    },
+    {
+        "english": "encompass",
+        "hebrew": "לכלול, להקיף"
+    },
+    {
+        "english": "encounter",
+        "hebrew": "מפגש"
+    },
+    {
+        "english": "encourage",
+        "hebrew": "לעודד"
+    },
+    {
+        "english": "endeavor",
+        "hebrew": "להתאמץ, לשאוף בחוזקה, ניסיון, מאמץ"
+    },
+    {
+        "english": "enfeeble",
+        "hebrew": "להחליש"
+    },
+    {
+        "english": "engage",
+        "hebrew": "להעסיק, ליטול התחייבות"
+    },
+    {
+        "english": "engagement",
+        "hebrew": "העסקה, התחייבות, אירוסין"
+    },
+    {
+        "english": "engineer",
+        "hebrew": "מהנדס"
+    },
+    {
+        "english": "enhance",
+        "hebrew": "להגביר, להעצים"
+    },
+    {
+        "english": "enjoy",
+        "hebrew": "להנות"
+    },
+    {
+        "english": "enlist",
+        "hebrew": "לגייס"
+    },
+    {
+        "english": "enormous",
+        "hebrew": "ענק, עצום"
+    },
+    {
+        "english": "ensure",
+        "hebrew": "להבטיח שמשהו יקרה"
+    },
+    {
+        "english": "enter",
+        "hebrew": "להיכנס"
+    },
+    {
+        "english": "enthusiasm",
+        "hebrew": "התלהבות"
+    },
+    {
+        "english": "entire",
+        "hebrew": "שלם, כולל"
+    },
+    {
+        "english": "entwine",
+        "hebrew": "לשלב, לקלוע, לשזור"
+    },
+    {
+        "english": "epilogue",
+        "hebrew": "אחרית דבר"
+    },
+    {
+        "english": "equality",
+        "hebrew": "שוויון"
+    },
+    {
+        "english": "equipment",
+        "hebrew": "ציוד"
+    },
+    {
+        "english": "equivalent",
+        "hebrew": "שווה ערך"
+    },
+    {
+        "english": "equivocal",
+        "hebrew": "שאינו חד משמעי"
+    },
+    {
+        "english": "era",
+        "hebrew": "עידן"
+    },
+    {
+        "english": "erroneous",
+        "hebrew": "שגוי"
+    },
+    {
+        "english": "erudition",
+        "hebrew": "השכלה עצומה"
+    },
+    {
+        "english": "erupt",
+        "hebrew": "להתפרץ (בעיקר הר געש)"
+    },
+    {
+        "english": "eruption",
+        "hebrew": "התפרצות"
+    },
+    {
+        "english": "escaped",
+        "hebrew": "לברוח"
+    },
+    {
+        "english": "essence",
+        "hebrew": "מהות"
+    },
+    {
+        "english": "essential",
+        "hebrew": "חיוני, מהותי"
+    },
+    {
+        "english": "establish",
+        "hebrew": "לייסד, ליישב, להתיישב"
+    },
+    {
+        "english": "establishment",
+        "hebrew": "מוסד"
+    },
+    {
+        "english": "estimate",
+        "hebrew": "להעריך, הערכה"
+    },
+    {
+        "english": "eulogize",
+        "hebrew": "לפאר ולשבח"
+    },
+    {
+        "english": "eulogy",
+        "hebrew": "הספד, יצירה שנועדה לפאר ולשבח"
+    },
+    {
+        "english": "even",
+        "hebrew": "חלק, לא מחוספס, מישורי, זוגי, שווה בשווה, שווה בשווה"
+    },
+    {
+        "english": "even",
+        "hebrew": "though למרות, אף על פי כן"
+    },
+    {
+        "english": "evenly",
+        "hebrew": "באופן שווה"
+    },
+    {
+        "english": "event",
+        "hebrew": "אירוע"
+    },
+    {
+        "english": "eventual",
+        "hebrew": "משהו שמגיע כתוצאה של משהו אחר"
+    },
+    {
+        "english": "eventually",
+        "hebrew": "וככלות הכל"
+    },
+    {
+        "english": "evidence",
+        "hebrew": "ראיות"
+    },
+    {
+        "english": "evil",
+        "hebrew": "רע, מרושע"
+    },
+    {
+        "english": "evolution",
+        "hebrew": "התפתחות"
+    },
+    {
+        "english": "evolve",
+        "hebrew": "להתפתח"
+    },
+    {
+        "english": "exaggeration",
+        "hebrew": "הגזמה"
+    },
+    {
+        "english": "examination",
+        "hebrew": "בחינה"
+    },
+    {
+        "english": "examine",
+        "hebrew": "לבחון"
+    },
+    {
+        "english": "excavate",
+        "hebrew": "לחשוף באמצעות חפירה"
+    },
+    {
+        "english": "excavation",
+        "hebrew": "חפירה"
+    },
+    {
+        "english": "excellent",
+        "hebrew": "מצויין"
+    },
+    {
+        "english": "except",
+        "hebrew": "להוציא מהכלל, לא לקבל"
+    },
+    {
+        "english": "exception",
+        "hebrew": "יוצא דופן, יוצא מהכלל"
+    },
+    {
+        "english": "exchange",
+        "hebrew": "להחליף דבר בדבר, החלפת דבר בדבר"
+    },
+    {
+        "english": "exciting",
+        "hebrew": "מרגש, מעורר"
+    },
+    {
+        "english": "exhaust",
+        "hebrew": "להתיש, לעייף, אגזוז"
+    },
+    {
+        "english": "exhibit",
+        "hebrew": "להציג, מוצג"
+    },
+    {
+        "english": "expand",
+        "hebrew": "להתפשט, להתרחב"
+    },
+    {
+        "english": "expanse",
+        "hebrew": "שטח רחב ופתוח"
+    },
+    {
+        "english": "expansion",
+        "hebrew": "התפשטות, התרחבות"
+    },
+    {
+        "english": "expedition",
+        "hebrew": "מסע, משלחת חקר"
+    },
+    {
+        "english": "expend",
+        "hebrew": "לבזבז"
+    },
+    {
+        "english": "expenditure",
+        "hebrew": "הוצאה, בזבוז, הוצאה"
+    },
+    {
+        "english": "expense",
+        "hebrew": "הוצאה"
+    },
+    {
+        "english": "expensive",
+        "hebrew": "יקר"
+    },
+    {
+        "english": "experiment",
+        "hebrew": "ניסוי"
+    },
+    {
+        "english": "explain",
+        "hebrew": "להסביר"
+    },
+    {
+        "english": "explanation",
+        "hebrew": "הסבר"
+    },
+    {
+        "english": "explicit",
+        "hebrew": "מפורש, מפורט"
+    },
+    {
+        "english": "explode",
+        "hebrew": "להתפוצץ"
+    },
+    {
+        "english": "exploit",
+        "hebrew": "מבצע נועז, לנצל, להשתמש"
+    },
+    {
+        "english": "explore",
+        "hebrew": "לחקור"
+    },
+    {
+        "english": "explosion",
+        "hebrew": "פיצוץ"
+    },
+    {
+        "english": "export",
+        "hebrew": "לייצא"
+    },
+    {
+        "english": "express",
+        "hebrew": "מוצג בצורה בהירה, מהיר, לבטא"
+    },
+    {
+        "english": "expression",
+        "hebrew": "ביטוי"
+    },
+    {
+        "english": "extend",
+        "hebrew": "להתרחב, להימשך"
+    },
+    {
+        "english": "extension",
+        "hebrew": "הרחבה, הארכה"
+    },
+    {
+        "english": "extensive",
+        "hebrew": "נרחב"
+    },
+    {
+        "english": "extent",
+        "hebrew": "היקף, שיעור, מידה"
+    },
+    {
+        "english": "external",
+        "hebrew": "חיצוני"
+    },
+    {
+        "english": "extinct",
+        "hebrew": "נכחד"
+    },
+    {
+        "english": "extreme",
+        "hebrew": "מידה קיצונית, קיצוני"
+    },
+    {
+        "english": "extremely",
+        "hebrew": "מאד"
+    },
+    {
+        "english": "extremist",
+        "hebrew": "דוגל בצעדים קיצוניים"
+    },
+    {
+        "english": "eyes",
+        "hebrew": "shut עיניים עצומות"
+    },
+    {
+        "english": "face",
+        "hebrew": "פנים"
+    },
+    {
+        "english": "facilitate",
+        "hebrew": "לסייע בעשיית דבר מה, לאפשר"
+    },
+    {
+        "english": "facility",
+        "hebrew": "יכולת לעשות דברים בקלות, אמצעי, שירות"
+    },
+    {
+        "english": "fact",
+        "hebrew": "עובדה"
+    },
+    {
+        "english": "factor",
+        "hebrew": "גורם"
+    },
+    {
+        "english": "factory",
+        "hebrew": "מפעל"
+    },
+    {
+        "english": "fallacious",
+        "hebrew": "מטעה"
+    },
+    {
+        "english": "fallacy",
+        "hebrew": "רעיון מטעה"
+    },
+    {
+        "english": "FALSE",
+        "hebrew": "כוזב, מזוייף"
+    },
+    {
+        "english": "falsehood",
+        "hebrew": "שקר"
+    },
+    {
+        "english": "fame",
+        "hebrew": "תהילה"
+    },
+    {
+        "english": "familiar",
+        "hebrew": "מכיר היטב, מקרוב, מוכר היטב, מקרוב"
+    },
+    {
+        "english": "family",
+        "hebrew": "משפחה"
+    },
+    {
+        "english": "famous",
+        "hebrew": "מפורסם"
+    },
+    {
+        "english": "fascinate",
+        "hebrew": "להקסים"
+    },
+    {
+        "english": "fascination",
+        "hebrew": "משיכה, קסם"
+    },
+    {
+        "english": "fashion",
+        "hebrew": "אופנה"
+    },
+    {
+        "english": "fastidious",
+        "hebrew": "דקדקן, אנין טעם, בררן"
+    },
+    {
+        "english": "fault",
+        "hebrew": "אשמה"
+    },
+    {
+        "english": "fauna",
+        "hebrew": "עולם החי"
+    },
+    {
+        "english": "favorite",
+        "hebrew": "מועדף"
+    },
+    {
+        "english": "feast",
+        "hebrew": "משתה, לזלול"
+    },
+    {
+        "english": "feature",
+        "hebrew": "מאפיין, תכונה, להופיע"
+    },
+    {
+        "english": "feel",
+        "hebrew": "להרגיש"
+    },
+    {
+        "english": "fetus",
+        "hebrew": "עובר"
+    },
+    {
+        "english": "fiasco",
+        "hebrew": "כשלון חרוץ"
+    },
+    {
+        "english": "figurative",
+        "hebrew": "מוחשי (ציור), ציורי (ספרות)"
+    },
+    {
+        "english": "figure",
+        "hebrew": "צורה, איור, דמות, פיגורה, לדמיין, לדמיין"
+    },
+    {
+        "english": "final",
+        "hebrew": "סופי"
+    },
+    {
+        "english": "find",
+        "hebrew": "למצוא"
+    },
+    {
+        "english": "firm",
+        "hebrew": "מוצק, חברה, פירמה"
+    },
+    {
+        "english": "first",
+        "hebrew": "aid עזרה ראשונה"
+    },
+    {
+        "english": "flagrant",
+        "hebrew": "בוטה, מזעזע"
+    },
+    {
+        "english": "flat",
+        "hebrew": "דירה, שטוח"
+    },
+    {
+        "english": "flex",
+        "hebrew": "למתוח שריר"
+    },
+    {
+        "english": "flexibility",
+        "hebrew": "גמישות"
+    },
+    {
+        "english": "flexible",
+        "hebrew": "גמיש"
+    },
+    {
+        "english": "flight",
+        "hebrew": "טיסה, בריחה, מנוסה"
+    },
+    {
+        "english": "flood",
+        "hebrew": "שיטפון, הצפה, להציף, לעלות על גדותיו"
+    },
+    {
+        "english": "flourish",
+        "hebrew": "לשגשג, לפרוח"
+    },
+    {
+        "english": "fly",
+        "hebrew": "לטוס"
+    },
+    {
+        "english": "foe",
+        "hebrew": "אויב"
+    },
+    {
+        "english": "fond",
+        "hebrew": "לחבב, מחבב"
+    },
+    {
+        "english": "foot",
+        "hebrew": "רגל, מידה שאורכה כ-30 ס\"מ"
+    },
+    {
+        "english": "for",
+        "hebrew": "instance לדוגמא, למשל"
+    },
+    {
+        "english": "force",
+        "hebrew": "להכריח, כוח"
+    },
+    {
+        "english": "foresee",
+        "hebrew": "לחזות מראש"
+    },
+    {
+        "english": "foreseeable",
+        "hebrew": "שניתן לחזותו מראש"
+    },
+    {
+        "english": "forge",
+        "hebrew": "לעצב, ליצור, לחשל, לזייף"
+    },
+    {
+        "english": "forget",
+        "hebrew": "לשכוח"
+    },
+    {
+        "english": "formation",
+        "hebrew": "תצורה, מבנה"
+    },
+    {
+        "english": "former",
+        "hebrew": "הקודם"
+    },
+    {
+        "english": "former/latter",
+        "hebrew": "הראשון, האחרון (על פי סדר ציונם במשפט)"
+    },
+    {
+        "english": "formidable",
+        "hebrew": "חזק, נאדר, מאיים, מפחיד"
+    },
+    {
+        "english": "fortnight",
+        "hebrew": "שבועיים"
+    },
+    {
+        "english": "found",
+        "hebrew": "לייסד"
+    },
+    {
+        "english": "foundation",
+        "hebrew": "קרן"
+    },
+    {
+        "english": "foundations",
+        "hebrew": "יסודות"
+    },
+    {
+        "english": "founder",
+        "hebrew": "מייסד"
+    },
+    {
+        "english": "fraction",
+        "hebrew": "חלק קטן, שבר"
+    },
+    {
+        "english": "fracture",
+        "hebrew": "לשבור, שבר"
+    },
+    {
+        "english": "freedom",
+        "hebrew": "חופש"
+    },
+    {
+        "english": "frequency",
+        "hebrew": "שכיחות, תדירות"
+    },
+    {
+        "english": "frequent",
+        "hebrew": "לבקר (לעיתים קרובות), תכוף, תדיר"
+    },
+    {
+        "english": "frequently",
+        "hebrew": "לעיתים תכופות"
+    },
+    {
+        "english": "fresh",
+        "hebrew": "טרי"
+    },
+    {
+        "english": "fringe",
+        "hebrew": "שוליים"
+    },
+    {
+        "english": "frivolous",
+        "hebrew": "קל דעת, טפשי"
+    },
+    {
+        "english": "fruit",
+        "hebrew": "פרי, פירות"
+    },
+    {
+        "english": "fruitful",
+        "hebrew": "נושא פרי, פורה"
+    },
+    {
+        "english": "frustrate",
+        "hebrew": "לתסכל"
+    },
+    {
+        "english": "frustration",
+        "hebrew": "תסכול"
+    },
+    {
+        "english": "fugitive",
+        "hebrew": "פליט"
+    },
+    {
+        "english": "fulfill",
+        "hebrew": "להשלים, להשיג מטרה"
+    },
+    {
+        "english": "full",
+        "hebrew": "מלא"
+    },
+    {
+        "english": "function",
+        "hebrew": "תכלית, תפקיד, פונקציה (במתמטיקה), לתפקד"
+    },
+    {
+        "english": "fund",
+        "hebrew": "קרן (כספית או של משאבים אחרים), לממן"
+    },
+    {
+        "english": "fundamental",
+        "hebrew": "בסיסי, יסודי"
+    },
+    {
+        "english": "fundamentalist",
+        "hebrew": "מאמין בתורה שבכתב, בלי פרשנויות"
+    },
+    {
+        "english": "furnish",
+        "hebrew": "לרהט"
+    },
+    {
+        "english": "furniture",
+        "hebrew": "ריהוט, רהיטים"
+    },
+    {
+        "english": "futile",
+        "hebrew": "עקר, חסר ערך"
+    },
+    {
+        "english": "gain",
+        "hebrew": "להרוויח, רווח"
+    },
+    {
+        "english": "gap",
+        "hebrew": "פער, רווח"
+    },
+    {
+        "english": "garbage",
+        "hebrew": "זבל"
+    },
+    {
+        "english": "garment",
+        "hebrew": "בגד"
+    },
+    {
+        "english": "gather",
+        "hebrew": "להיאסף, לאסוף"
+    },
+    {
+        "english": "gender",
+        "hebrew": "מגדר (זכר - נקבה)"
+    },
+    {
+        "english": "general",
+        "hebrew": "כללי"
+    },
+    {
+        "english": "generate",
+        "hebrew": "לייצר"
+    },
+    {
+        "english": "generous",
+        "hebrew": "נדיב"
+    },
+    {
+        "english": "genesis",
+        "hebrew": "בראשית, היווצרות"
+    },
+    {
+        "english": "genuine",
+        "hebrew": "אמיתי, לא מזוייף"
+    },
+    {
+        "english": "gesture",
+        "hebrew": "תנועת יד, מחווה"
+    },
+    {
+        "english": "ghost",
+        "hebrew": "רוח רפאים"
+    },
+    {
+        "english": "give",
+        "hebrew": "rise to להתחיל, לגרום ל..."
+    },
+    {
+        "english": "glass",
+        "hebrew": "זכוכית, כוס"
+    },
+    {
+        "english": "glasses",
+        "hebrew": "משקפיים"
+    },
+    {
+        "english": "glimpse",
+        "hebrew": "מבט חטוף, הצצה"
+    },
+    {
+        "english": "glory",
+        "hebrew": "תהילה"
+    },
+    {
+        "english": "go",
+        "hebrew": "ללכת"
+    },
+    {
+        "english": "goal",
+        "hebrew": "שאיפה, מטרה, יעד"
+    },
+    {
+        "english": "goods",
+        "hebrew": "סחורה"
+    },
+    {
+        "english": "gossip",
+        "hebrew": "לרכל, רכילות"
+    },
+    {
+        "english": "govern",
+        "hebrew": "לשלוט"
+    },
+    {
+        "english": "government",
+        "hebrew": "ממשלה"
+    },
+    {
+        "english": "grace",
+        "hebrew": "חן, קסם"
+    },
+    {
+        "english": "gracious",
+        "hebrew": "חינני, מקסים"
+    },
+    {
+        "english": "gradually",
+        "hebrew": "בהדרגה"
+    },
+    {
+        "english": "gratitude",
+        "hebrew": "הכרת תודה"
+    },
+    {
+        "english": "gray",
+        "hebrew": "אפור"
+    },
+    {
+        "english": "grief",
+        "hebrew": "צער, יגון"
+    },
+    {
+        "english": "grim",
+        "hebrew": "עצוב, רציני, קשה, חמור"
+    },
+    {
+        "english": "grind",
+        "hebrew": "לטחון"
+    },
+    {
+        "english": "groom",
+        "hebrew": "לטפח, חתן"
+    },
+    {
+        "english": "ground",
+        "hebrew": "קרקע, לבסס, לקרקע"
+    },
+    {
+        "english": "guess",
+        "hebrew": "לנחש, ניחוש"
+    },
+    {
+        "english": "guilty",
+        "hebrew": "אשם"
+    },
+    {
+        "english": "habit",
+        "hebrew": "הרגל"
+    },
+    {
+        "english": "handicapped",
+        "hebrew": "מוגבל, נכה"
+    },
+    {
+        "english": "handsome",
+        "hebrew": "נאה, יפה, נאה, נכבד"
+    },
+    {
+        "english": "harmful",
+        "hebrew": "מזיק"
+    },
+    {
+        "english": "harmless",
+        "hebrew": "לא מזיק"
+    },
+    {
+        "english": "harvest",
+        "hebrew": "קציר, לקצור"
+    },
+    {
+        "english": "haste",
+        "hebrew": "חיפזון"
+    },
+    {
+        "english": "have",
+        "hebrew": "יש לי"
+    },
+    {
+        "english": "health",
+        "hebrew": "בריאות"
+    },
+    {
+        "english": "hearsay",
+        "hebrew": "שמועה"
+    },
+    {
+        "english": "heart",
+        "hebrew": "לב"
+    },
+    {
+        "english": "heartfelt",
+        "hebrew": "כן, רציני, יוצא מהלב"
+    },
+    {
+        "english": "heartless",
+        "hebrew": "אכזר, קשה לב"
+    },
+    {
+        "english": "heart-rending",
+        "hebrew": "קורע לב"
+    },
+    {
+        "english": "heartthrob",
+        "hebrew": "פעימת לב"
+    },
+    {
+        "english": "heavy",
+        "hebrew": "כבד"
+    },
+    {
+        "english": "hereditary",
+        "hebrew": "תורשתי"
+    },
+    {
+        "english": "heredity",
+        "hebrew": "תורשה"
+    },
+    {
+        "english": "heresy",
+        "hebrew": "כפירה"
+    },
+    {
+        "english": "heretic",
+        "hebrew": "כופר"
+    },
+    {
+        "english": "heritage",
+        "hebrew": "מורשת"
+    },
+    {
+        "english": "hero",
+        "hebrew": "גיבור"
+    },
+    {
+        "english": "hide",
+        "hebrew": "להתחבא"
+    },
+    {
+        "english": "hit",
+        "hebrew": "להכות"
+    },
+    {
+        "english": "hitherto",
+        "hebrew": "עד כה, נכון לעכשיו"
+    },
+    {
+        "english": "hold",
+        "hebrew": "להחזיק"
+    },
+    {
+        "english": "horrible",
+        "hebrew": "איום ונורא"
+    },
+    {
+        "english": "horrify",
+        "hebrew": "להפחיד"
+    },
+    {
+        "english": "horror",
+        "hebrew": "אימה"
+    },
+    {
+        "english": "hospitable",
+        "hebrew": "מסביר פנים"
+    },
+    {
+        "english": "hospital",
+        "hebrew": "בית חולים"
+    },
+    {
+        "english": "hostile",
+        "hebrew": "עוין"
+    },
+    {
+        "english": "hour",
+        "hebrew": "שעה"
+    },
+    {
+        "english": "however",
+        "hebrew": "אולם, אבל, יחד עם זאת"
+    },
+    {
+        "english": "huge",
+        "hebrew": "ענק, עצום"
+    },
+    {
+        "english": "human",
+        "hebrew": "אנושי"
+    },
+    {
+        "english": "hungry",
+        "hebrew": "רעב"
+    },
+    {
+        "english": "hunt",
+        "hebrew": "לצוד"
+    },
+    {
+        "english": "husband",
+        "hebrew": "בעל"
+    },
+    {
+        "english": "hybrid",
+        "hebrew": "בן כלאיים"
+    },
+    {
+        "english": "hypocrisy",
+        "hebrew": "צביעות"
+    },
+    {
+        "english": "hypothesis",
+        "hebrew": "השערה"
+    },
+    {
+        "english": "ice",
+        "hebrew": "קרח"
+    },
+    {
+        "english": "identify",
+        "hebrew": "לזהות"
+    },
+    {
+        "english": "identity",
+        "hebrew": "זהות"
+    },
+    {
+        "english": "idle",
+        "hebrew": "ללא מעש, בבטלה, עצלן, בטלן, חסר מעש"
+    },
+    {
+        "english": "ignite",
+        "hebrew": "להצית"
+    },
+    {
+        "english": "ignore",
+        "hebrew": "להתעלם"
+    },
+    {
+        "english": "illness",
+        "hebrew": "מחלה"
+    },
+    {
+        "english": "illusion",
+        "hebrew": "אשליה"
+    },
+    {
+        "english": "illusive",
+        "hebrew": "מטעה, מתעתע"
+    },
+    {
+        "english": "illusory",
+        "hebrew": "מטעה, חמקמק"
+    },
+    {
+        "english": "image",
+        "hebrew": "דמות, דימוי, דבר מה דומה"
+    },
+    {
+        "english": "imagine",
+        "hebrew": "להעלות על הדעת, לדמיין"
+    },
+    {
+        "english": "immediate",
+        "hebrew": "מיידי"
+    },
+    {
+        "english": "immediately",
+        "hebrew": "מיד"
+    },
+    {
+        "english": "immense",
+        "hebrew": "עצום"
+    },
+    {
+        "english": "immensely",
+        "hebrew": "במידה רבה"
+    },
+    {
+        "english": "imminent",
+        "hebrew": "צפוי להתרחש \"או-טו-טו\""
+    },
+    {
+        "english": "immune",
+        "hebrew": "מחוסן"
+    },
+    {
+        "english": "impact",
+        "hebrew": "כוח הדף, השפעה, רושם"
+    },
+    {
+        "english": "impartial",
+        "hebrew": "ניטרלי, הוגן, בלתי משוחד, ללא משוא פנים"
+    },
+    {
+        "english": "impartiality",
+        "hebrew": "ניטרליות, הגינות"
+    },
+    {
+        "english": "implant",
+        "hebrew": "להטביע, לקבוע באופן עמוק"
+    },
+    {
+        "english": "implicate",
+        "hebrew": "לערב"
+    },
+    {
+        "english": "implication",
+        "hebrew": "רמז, להיות מעורב"
+    },
+    {
+        "english": "implicit",
+        "hebrew": "מרומז, משתמע, מוחלט"
+    },
+    {
+        "english": "imply",
+        "hebrew": "לרמז"
+    },
+    {
+        "english": "import",
+        "hebrew": "לייבא"
+    },
+    {
+        "english": "impose",
+        "hebrew": "להטיל"
+    },
+    {
+        "english": "impossible",
+        "hebrew": "בלתי אפשרי"
+    },
+    {
+        "english": "impregnable",
+        "hebrew": "בלתי מנוצח, שאין להכניעו"
+    },
+    {
+        "english": "imprison",
+        "hebrew": "לכלוא"
+    },
+    {
+        "english": "improve",
+        "hebrew": "לשפר"
+    },
+    {
+        "english": "impulse",
+        "hebrew": "דחף בלתי נשלט"
+    },
+    {
+        "english": "in",
+        "hebrew": "addition בנוסף"
+    },
+    {
+        "english": "in",
+        "hebrew": "spite of למרות"
+    },
+    {
+        "english": "in",
+        "hebrew": "vain לשווא"
+    },
+    {
+        "english": "inaccurate",
+        "hebrew": "לא מדוייק"
+    },
+    {
+        "english": "incident",
+        "hebrew": "תקרית"
+    },
+    {
+        "english": "incline",
+        "hebrew": "לנטות"
+    },
+    {
+        "english": "inclined",
+        "hebrew": "נוטה"
+    },
+    {
+        "english": "increase",
+        "hebrew": "גידול, לגדול"
+    },
+    {
+        "english": "indicate",
+        "hebrew": "לציין"
+    },
+    {
+        "english": "indifferent",
+        "hebrew": "חסר עניין, אדיש"
+    },
+    {
+        "english": "individual",
+        "hebrew": "יחיד, פרט"
+    },
+    {
+        "english": "induce",
+        "hebrew": "לגרום"
+    },
+    {
+        "english": "industry",
+        "hebrew": "תעשייה"
+    },
+    {
+        "english": "inevitable",
+        "hebrew": "בלתי נמנע"
+    },
+    {
+        "english": "inferior",
+        "hebrew": "נחות"
+    },
+    {
+        "english": "influence",
+        "hebrew": "השפעה"
+    },
+    {
+        "english": "inform",
+        "hebrew": "להודיע"
+    },
+    {
+        "english": "information",
+        "hebrew": "מידע"
+    },
+    {
+        "english": "ingenious",
+        "hebrew": "גאוני"
+    },
+    {
+        "english": "ingredient",
+        "hebrew": "מרכיב, רכיב"
+    },
+    {
+        "english": "inherent",
+        "hebrew": "שטבוע במהות הדבר"
+    },
+    {
+        "english": "initial",
+        "hebrew": "התחלתי, ראשוני, האות הראשונה שלמילה - ראשי תיבות"
+    },
+    {
+        "english": "injury",
+        "hebrew": "פציעה"
+    },
+    {
+        "english": "insect",
+        "hebrew": "חרק"
+    },
+    {
+        "english": "insight",
+        "hebrew": "תובנה, הבנה עמוקה"
+    },
+    {
+        "english": "insist",
+        "hebrew": "להתעקש"
+    },
+    {
+        "english": "insistence",
+        "hebrew": "עקשנות"
+    },
+    {
+        "english": "inspect",
+        "hebrew": "לפקח, לבדוק בדקדקנות"
+    },
+    {
+        "english": "inspection",
+        "hebrew": "בדיקה, פיקוח"
+    },
+    {
+        "english": "inspector",
+        "hebrew": "מפקח"
+    },
+    {
+        "english": "inspiration",
+        "hebrew": "השראה"
+    },
+    {
+        "english": "inspire",
+        "hebrew": "להעניק השראה"
+    },
+    {
+        "english": "instant",
+        "hebrew": "רגע, מיידי"
+    },
+    {
+        "english": "instantaneous",
+        "hebrew": "מיידי"
+    },
+    {
+        "english": "instigate",
+        "hebrew": "להסית"
+    },
+    {
+        "english": "institute",
+        "hebrew": "מוסד, ארגון, לייסד, לארגן"
+    },
+    {
+        "english": "institution",
+        "hebrew": "מוסד \\ ארגון"
+    },
+    {
+        "english": "insulation",
+        "hebrew": "בידוד"
+    },
+    {
+        "english": "insuperable",
+        "hebrew": "שלא ניתן לגבור עליו"
+    },
+    {
+        "english": "insurance",
+        "hebrew": "ביטוח"
+    },
+    {
+        "english": "intact",
+        "hebrew": "שלם, ללא פגע"
+    },
+    {
+        "english": "intense",
+        "hebrew": "ניכר, רב עצמה, מעמיק, עז, אינטנסיבי"
+    },
+    {
+        "english": "intensity",
+        "hebrew": "עצמה ניכרת, העמקה"
+    },
+    {
+        "english": "intensive",
+        "hebrew": "מעמיק, רב עצמה"
+    },
+    {
+        "english": "intent",
+        "hebrew": "מתעקש, רוצה מאד, כוונה"
+    },
+    {
+        "english": "interest",
+        "hebrew": "עניין, ריבית, להתעניין"
+    },
+    {
+        "english": "interesting",
+        "hebrew": "מעניין"
+    },
+    {
+        "english": "interim",
+        "hebrew": "זמני"
+    },
+    {
+        "english": "intermission",
+        "hebrew": "הפסקה"
+    },
+    {
+        "english": "internal",
+        "hebrew": "פנימי"
+    },
+    {
+        "english": "interpret",
+        "hebrew": "לפרש, לתרגם"
+    },
+    {
+        "english": "interpretation",
+        "hebrew": "פרשנות"
+    },
+    {
+        "english": "interpreter",
+        "hebrew": "פרשן, מתורגמן"
+    },
+    {
+        "english": "interval",
+        "hebrew": "מרווח"
+    },
+    {
+        "english": "interview",
+        "hebrew": "ראיון, לראיין"
+    },
+    {
+        "english": "introduce",
+        "hebrew": "להציג, לערוך היכרות"
+    },
+    {
+        "english": "invariable",
+        "hebrew": "קבוע, שאינו משתנה"
+    },
+    {
+        "english": "invent",
+        "hebrew": "להמציא"
+    },
+    {
+        "english": "invention",
+        "hebrew": "המצאה"
+    },
+    {
+        "english": "invest",
+        "hebrew": "להשקיע"
+    },
+    {
+        "english": "investigate",
+        "hebrew": "לחקור"
+    },
+    {
+        "english": "investment",
+        "hebrew": "השקעה"
+    },
+    {
+        "english": "invite",
+        "hebrew": "להזמין"
+    },
+    {
+        "english": "involve",
+        "hebrew": "לערב"
+    },
+    {
+        "english": "involved",
+        "hebrew": "מעורב"
+    },
+    {
+        "english": "island",
+        "hebrew": "אי"
+    },
+    {
+        "english": "isolate",
+        "hebrew": "לבודד"
+    },
+    {
+        "english": "issue",
+        "hebrew": "להנפיק, להוציא לאור, לצאת, סוגייה, נושא, גליון, מהדורה"
+    },
+    {
+        "english": "item",
+        "hebrew": "פריט"
+    },
+    {
+        "english": "jest",
+        "hebrew": "מהתלה"
+    },
+    {
+        "english": "jester",
+        "hebrew": "ליצן חצר"
+    },
+    {
+        "english": "join",
+        "hebrew": "להצטרף, לצרף דבר לדבר"
+    },
+    {
+        "english": "joke",
+        "hebrew": "בדיחה"
+    },
+    {
+        "english": "journalism",
+        "hebrew": "עיתונות"
+    },
+    {
+        "english": "journey",
+        "hebrew": "מסע"
+    },
+    {
+        "english": "junction",
+        "hebrew": "צומת"
+    },
+    {
+        "english": "juncture",
+        "hebrew": "הצטלבות (בזמן)"
+    },
+    {
+        "english": "jury",
+        "hebrew": "חבר מושבעים"
+    },
+    {
+        "english": "justify",
+        "hebrew": "להצדיק"
+    },
+    {
+        "english": "juvenile",
+        "hebrew": "צעיר, של נוער, קטין"
+    },
+    {
+        "english": "juxtapose",
+        "hebrew": "להציב זה לצד זה"
+    },
+    {
+        "english": "keen",
+        "hebrew": "חד, שואף מאד לדבר מה"
+    },
+    {
+        "english": "kernel",
+        "hebrew": "גלעין"
+    },
+    {
+        "english": "kid",
+        "hebrew": "ילד/ה"
+    },
+    {
+        "english": "kind",
+        "hebrew": "נחמד, חביב"
+    },
+    {
+        "english": "kind",
+        "hebrew": "of סוג של"
+    },
+    {
+        "english": "kindle",
+        "hebrew": "להבעיר"
+    },
+    {
+        "english": "kingdom",
+        "hebrew": "ממלכה"
+    },
+    {
+        "english": "kitchen",
+        "hebrew": "מטבח"
+    },
+    {
+        "english": "knight",
+        "hebrew": "אביר"
+    },
+    {
+        "english": "knot",
+        "hebrew": "קשר"
+    },
+    {
+        "english": "knowledge",
+        "hebrew": "ידע"
+    },
+    {
+        "english": "lack",
+        "hebrew": "מחסור, להיות חסר"
+    },
+    {
+        "english": "languish",
+        "hebrew": "הולך ונחלש, נוטה לאפיסת כוחות"
+    },
+    {
+        "english": "languor",
+        "hebrew": "חולשה, אפיסת כוחות"
+    },
+    {
+        "english": "last",
+        "hebrew": "אחרון, להאריך ימים"
+    },
+    {
+        "english": "lazy",
+        "hebrew": "עצלן"
+    },
+    {
+        "english": "lead",
+        "hebrew": "להוביל"
+    },
+    {
+        "english": "learn",
+        "hebrew": "ללמוד"
+    },
+    {
+        "english": "leave",
+        "hebrew": "לעזוב"
+    },
+    {
+        "english": "lecture",
+        "hebrew": "להרצות, הרצאה"
+    },
+    {
+        "english": "legislate",
+        "hebrew": "לחוקק"
+    },
+    {
+        "english": "legislation",
+        "hebrew": "חקיקה"
+    },
+    {
+        "english": "legitimate",
+        "hebrew": "לגיטימי, בעל תוקף חוקי או חברתי"
+    },
+    {
+        "english": "leisure",
+        "hebrew": "פנאי"
+    },
+    {
+        "english": "leopard",
+        "hebrew": "פנתר, נמר"
+    },
+    {
+        "english": "let",
+        "hebrew": "להתיר, לשכור, להשכיר"
+    },
+    {
+        "english": "liable",
+        "hebrew": "אחראי, מחוייב"
+    },
+    {
+        "english": "liberty",
+        "hebrew": "חירות"
+    },
+    {
+        "english": "license",
+        "hebrew": "רישיון"
+    },
+    {
+        "english": "lie",
+        "hebrew": "שקר, לשקר, לשכב"
+    },
+    {
+        "english": "lifelong",
+        "hebrew": "לכל החיים, לכל משך החיים"
+    },
+    {
+        "english": "likely",
+        "hebrew": "מתקבל על הדעת"
+    },
+    {
+        "english": "limit",
+        "hebrew": "להגביל, גבול, קצה"
+    },
+    {
+        "english": "limitation",
+        "hebrew": "מגבלה"
+    },
+    {
+        "english": "linger",
+        "hebrew": "להשתהות"
+    },
+    {
+        "english": "link",
+        "hebrew": "קשר, חיבור, זיקה, לקשר"
+    },
+    {
+        "english": "literal",
+        "hebrew": "מילולי"
+    },
+    {
+        "english": "living",
+        "hebrew": "room סלון"
+    },
+    {
+        "english": "loath",
+        "hebrew": "לתעב"
+    },
+    {
+        "english": "local",
+        "hebrew": "מקומי"
+    },
+    {
+        "english": "locate",
+        "hebrew": "לאתר"
+    },
+    {
+        "english": "loose",
+        "hebrew": "רפוי"
+    },
+    {
+        "english": "lucid",
+        "hebrew": "צלול בדעתו"
+    },
+    {
+        "english": "luck",
+        "hebrew": "מזל"
+    },
+    {
+        "english": "luminous",
+        "hebrew": "זוהר, בוהק, מאיר"
+    },
+    {
+        "english": "lunch",
+        "hebrew": "ארוחת צהריים"
+    },
+    {
+        "english": "luxury",
+        "hebrew": "מותרות"
+    },
+    {
+        "english": "machine",
+        "hebrew": "מכונה"
+    },
+    {
+        "english": "magnitude",
+        "hebrew": "חשיבות, משמעות, גודל או שיעור מסויים"
+    },
+    {
+        "english": "main",
+        "hebrew": "עיקרי, מרכזי, החשוב ביותר"
+    },
+    {
+        "english": "mainly",
+        "hebrew": "בעיקר"
+    },
+    {
+        "english": "maintain",
+        "hebrew": "להמשיך במשהו; לשמור משהו קיים, לתחזק, לשמור במצב טוב, לפרנס"
+    },
+    {
+        "english": "maintenance",
+        "hebrew": "תחזוקה"
+    },
+    {
+        "english": "major",
+        "hebrew": "החשוב יותר, העיקרי, בצבא: מקביל לרס\"ן בצה\"ל"
+    },
+    {
+        "english": "make",
+        "hebrew": "לעשות, להכין"
+    },
+    {
+        "english": "malice",
+        "hebrew": "רוע"
+    },
+    {
+        "english": "malignant",
+        "hebrew": "ממאיר"
+    },
+    {
+        "english": "mammal",
+        "hebrew": "יונק"
+    },
+    {
+        "english": "man",
+        "hebrew": "גבר, לאייש"
+    },
+    {
+        "english": "manage",
+        "hebrew": "להסתדר, לנהל עניינים"
+    },
+    {
+        "english": "mandatory",
+        "hebrew": "חובה"
+    },
+    {
+        "english": "manipulate",
+        "hebrew": "להפעיל"
+    },
+    {
+        "english": "manner",
+        "hebrew": "אופן, הדרך שבא אדם מתנהג, נימוסים (ברבים)"
+    },
+    {
+        "english": "manual",
+        "hebrew": "שנעשה ביד, ידני"
+    },
+    {
+        "english": "manually",
+        "hebrew": "ביד, ידנית"
+    },
+    {
+        "english": "mark",
+        "hebrew": "סימן, כתם, ציון, לסמן, להבחין"
+    },
+    {
+        "english": "martyr",
+        "hebrew": "קדוש מעונה"
+    },
+    {
+        "english": "mass",
+        "hebrew": "מאסה (של חומר כלשהו), כמות גדולה, \"מאסה\""
+    },
+    {
+        "english": "match",
+        "hebrew": "שידוך, לשדך, להתאים, תחרות משחק, גפרור"
+    },
+    {
+        "english": "maverick",
+        "hebrew": "אדם בעל דעות עצמאיות לא שמרניות"
+    },
+    {
+        "english": "means",
+        "hebrew": "דרכים, שיטות, אמצעים, אמצעים כספיים"
+    },
+    {
+        "english": "media",
+        "hebrew": "אמצעי תקשורת המוניים (רדיו, טלויזיה, עיתונות)"
+    },
+    {
+        "english": "medical",
+        "hebrew": "רפואי"
+    },
+    {
+        "english": "medicine",
+        "hebrew": "רפואה (המקצוע), תרופה"
+    },
+    {
+        "english": "meet",
+        "hebrew": "לפגוש"
+    },
+    {
+        "english": "member",
+        "hebrew": "חבר (במועדון, בקבוצה), איבר"
+    },
+    {
+        "english": "menu",
+        "hebrew": "תפריט"
+    },
+    {
+        "english": "mercy",
+        "hebrew": "רחמים"
+    },
+    {
+        "english": "mere",
+        "hebrew": "רק, בלבד, בסה\"כ"
+    },
+    {
+        "english": "messenger",
+        "hebrew": "שליח"
+    },
+    {
+        "english": "method",
+        "hebrew": "שיטה, סדר"
+    },
+    {
+        "english": "migrate",
+        "hebrew": "לנדוד, להגר"
+    },
+    {
+        "english": "mild",
+        "hebrew": "עדין, רך, לא חזק"
+    },
+    {
+        "english": "mind",
+        "hebrew": "שכל, תודעה, להתנגד"
+    },
+    {
+        "english": "minimize",
+        "hebrew": "להקטין למינימום"
+    },
+    {
+        "english": "minute",
+        "hebrew": "דקה"
+    },
+    {
+        "english": "misery",
+        "hebrew": "אומללות, סבל"
+    },
+    {
+        "english": "mislead",
+        "hebrew": "להשלות, להוליך שולל"
+    },
+    {
+        "english": "mistake",
+        "hebrew": "טעות"
+    },
+    {
+        "english": "mixture",
+        "hebrew": "תערובת"
+    },
+    {
+        "english": "mode",
+        "hebrew": "אופן, דרך"
+    },
+    {
+        "english": "moderate",
+        "hebrew": "מתון"
+    },
+    {
+        "english": "modest",
+        "hebrew": "צנוע, ענו"
+    },
+    {
+        "english": "modification",
+        "hebrew": "תיקון, שינוי"
+    },
+    {
+        "english": "modify",
+        "hebrew": "לתקן, לשנות"
+    },
+    {
+        "english": "moment",
+        "hebrew": "רגע"
+    },
+    {
+        "english": "momentary",
+        "hebrew": "רגעי, בכל רגע ורגע"
+    },
+    {
+        "english": "monkey",
+        "hebrew": "קוף"
+    },
+    {
+        "english": "mood",
+        "hebrew": "מצב רוח"
+    },
+    {
+        "english": "motion",
+        "hebrew": "תנועה"
+    },
+    {
+        "english": "municipal",
+        "hebrew": "עירוני, של רשות מקומית"
+    },
+    {
+        "english": "muscle",
+        "hebrew": "שריר"
+    },
+    {
+        "english": "mutual",
+        "hebrew": "הדדי, משותף"
+    },
+    {
+        "english": "myth",
+        "hebrew": "סיפור אגדה עתיק, מיתוס, אגדה"
+    },
+    {
+        "english": "narrow",
+        "hebrew": "צר"
+    },
+    {
+        "english": "neat",
+        "hebrew": "נקי, מסודר, יעיל, עשוי היטב"
+    },
+    {
+        "english": "necessary",
+        "hebrew": "נחוץ, הכרחי, חיוני"
+    },
+    {
+        "english": "necessity",
+        "hebrew": "משהו חיוני, צורך"
+    },
+    {
+        "english": "needle",
+        "hebrew": "מחט"
+    },
+    {
+        "english": "neglect",
+        "hebrew": "להזניח, הזנחה"
+    },
+    {
+        "english": "negligence",
+        "hebrew": "רשלנות"
+    },
+    {
+        "english": "net",
+        "hebrew": "רשת"
+    },
+    {
+        "english": "nevertheless",
+        "hebrew": "למרות זאת"
+    },
+    {
+        "english": "news",
+        "hebrew": "חדשות"
+    },
+    {
+        "english": "nightmare",
+        "hebrew": "סיוט, חלום בלהות"
+    },
+    {
+        "english": "nobility",
+        "hebrew": "אצולה, התכונות התרומיות, הטובות"
+    },
+    {
+        "english": "noble",
+        "hebrew": "אצילי"
+    },
+    {
+        "english": "nocturnal",
+        "hebrew": "של הלילה, לילי"
+    },
+    {
+        "english": "nominal",
+        "hebrew": "נומינלי, קיים בתיאוריה, קיים בשמו בלבד, בעל חשיבות מזערית"
+    },
+    {
+        "english": "north",
+        "hebrew": "צפון"
+    },
+    {
+        "english": "notable",
+        "hebrew": "ראוי לציון, נכבד, מצויין"
+    },
+    {
+        "english": "notably",
+        "hebrew": "באופן בולט במיוחד"
+    },
+    {
+        "english": "notice",
+        "hebrew": "התראה, הודעה, לשים לב, תשומת לב, מודעה"
+    },
+    {
+        "english": "noticeable",
+        "hebrew": "שקל להבחין בו"
+    },
+    {
+        "english": "noticeably",
+        "hebrew": "באופן שקל להבחין בו"
+    },
+    {
+        "english": "notion",
+        "hebrew": "דעה, רעיון"
+    },
+    {
+        "english": "novel",
+        "hebrew": "רומן, יצירה ספרותית ארוכה, חדש"
+    },
+    {
+        "english": "nowadays",
+        "hebrew": "בימינו"
+    },
+    {
+        "english": "nuclear",
+        "hebrew": "גרעיני"
+    },
+    {
+        "english": "nun",
+        "hebrew": "נזירה"
+    },
+    {
+        "english": "nurse",
+        "hebrew": "אח (בבי\"ח), לטפל, לסעוד מישהו חולה"
+    },
+    {
+        "english": "nutrition",
+        "hebrew": "תזונה"
+    },
+    {
+        "english": "obedience",
+        "hebrew": "משמעת"
+    },
+    {
+        "english": "obey",
+        "hebrew": "לציית"
+    },
+    {
+        "english": "object",
+        "hebrew": "חפץ, מטרה, מושא (בתחביר), מושא (בתחביר)"
+    },
+    {
+        "english": "objection",
+        "hebrew": "התנגדות"
+    },
+    {
+        "english": "objective",
+        "hebrew": "מטרה, ללא משוא פנים, הוגן, אובייקטיבי"
+    },
+    {
+        "english": "obscure",
+        "hebrew": "מוזר, ידוע למעטים, מעורפל, לא ברור, לערפל, לטשטש"
+    },
+    {
+        "english": "obsessed",
+        "hebrew": "אחוז דיבוק"
+    },
+    {
+        "english": "obsession",
+        "hebrew": "קיבעון, אובססיה"
+    },
+    {
+        "english": "obtain",
+        "hebrew": "להשיג"
+    },
+    {
+        "english": "obvious",
+        "hebrew": "ברור"
+    },
+    {
+        "english": "obviously",
+        "hebrew": "ברור מאליו, כמובן"
+    },
+    {
+        "english": "occasion",
+        "hebrew": "מאורע, אירוע"
+    },
+    {
+        "english": "occupation",
+        "hebrew": "מקצוע, תחום תעסוקה, תפיסת טריטוריה על ידי מדינה או צבא"
+    },
+    {
+        "english": "occupy",
+        "hebrew": "לשהות במקום, לתפוס מקום, תפוס"
+    },
+    {
+        "english": "occur",
+        "hebrew": "להתרחש"
+    },
+    {
+        "english": "occurrence",
+        "hebrew": "התרחשות"
+    },
+    {
+        "english": "odor",
+        "hebrew": "ריח, ניחוח"
+    },
+    {
+        "english": "offer",
+        "hebrew": "הצעה, להציע"
+    },
+    {
+        "english": "often",
+        "hebrew": "לעיתים קרובות"
+    },
+    {
+        "english": "oil",
+        "hebrew": "נפט, שמן"
+    },
+    {
+        "english": "on",
+        "hebrew": "account of בגלל"
+    },
+    {
+        "english": "opponent",
+        "hebrew": "מתנגד"
+    },
+    {
+        "english": "opportune",
+        "hebrew": "משהו שקרה בעיתוי מוצלח"
+    },
+    {
+        "english": "opportunism",
+        "hebrew": "ניצול כל הזדמנות לרווח"
+    },
+    {
+        "english": "opportunity",
+        "hebrew": "הזדמנות"
+    },
+    {
+        "english": "oppose",
+        "hebrew": "להתנגד"
+    },
+    {
+        "english": "opposition",
+        "hebrew": "התנגדות"
+    },
+    {
+        "english": "oppress",
+        "hebrew": "לדכא"
+    },
+    {
+        "english": "oppression",
+        "hebrew": "דיכוי"
+    },
+    {
+        "english": "orange",
+        "hebrew": "תפוז, כתום"
+    },
+    {
+        "english": "order",
+        "hebrew": "סדר"
+    },
+    {
+        "english": "origin",
+        "hebrew": "מקור, מוצא"
+    },
+    {
+        "english": "oscillate",
+        "hebrew": "להיטלטל, להתנודד"
+    },
+    {
+        "english": "ostentatious",
+        "hebrew": "ראוותני, יומרני, גנדרני"
+    },
+    {
+        "english": "otherwise",
+        "hebrew": "אלא אם כן, אחרת"
+    },
+    {
+        "english": "outcome",
+        "hebrew": "תוצאה של מהלך אירועים"
+    },
+    {
+        "english": "outdo",
+        "hebrew": "להאפיל, לעשות טוב יותר"
+    },
+    {
+        "english": "outgrowth",
+        "hebrew": "תוצאה טבעית של משהו"
+    },
+    {
+        "english": "outline",
+        "hebrew": "מסגרת, ראשי פרקים, תקציר, קווי מתאר"
+    },
+    {
+        "english": "outrage",
+        "hebrew": "שערורייה"
+    },
+    {
+        "english": "outspread",
+        "hebrew": "לפרוש לרווחה"
+    },
+    {
+        "english": "overrate",
+        "hebrew": "להעריך יתר על המידה"
+    },
+    {
+        "english": "pain",
+        "hebrew": "כאב"
+    },
+    {
+        "english": "painful",
+        "hebrew": "כואב"
+    },
+    {
+        "english": "parallel",
+        "hebrew": "מקביל"
+    },
+    {
+        "english": "pardon",
+        "hebrew": "סליחה, מחילה, חנינה"
+    },
+    {
+        "english": "parents",
+        "hebrew": "הורים"
+    },
+    {
+        "english": "participant",
+        "hebrew": "משתתף"
+    },
+    {
+        "english": "participate",
+        "hebrew": "להשתתף"
+    },
+    {
+        "english": "particular",
+        "hebrew": "מסויים, בררן"
+    },
+    {
+        "english": "pattern",
+        "hebrew": "שיטה, סדר אירועים קבוע, דפוס, דוגמא של ציור, רקמה וכו'"
+    },
+    {
+        "english": "peak",
+        "hebrew": "שיא, פסגה (גם של הר וגם של אירוע)"
+    },
+    {
+        "english": "pedestrian",
+        "hebrew": "הולך רגל"
+    },
+    {
+        "english": "perception",
+        "hebrew": "תפיסה, ראייה לעומק"
+    },
+    {
+        "english": "perform",
+        "hebrew": "לבצע"
+    },
+    {
+        "english": "period",
+        "hebrew": "תקופה"
+    },
+    {
+        "english": "perish",
+        "hebrew": "להירקב, להיחרב, למות"
+    },
+    {
+        "english": "permanent",
+        "hebrew": "קבוע"
+    },
+    {
+        "english": "permeate",
+        "hebrew": "להתפשט, לחדור"
+    },
+    {
+        "english": "perplexed",
+        "hebrew": "לחוש בלבול ודאגה"
+    },
+    {
+        "english": "persevere",
+        "hebrew": "להתמיד"
+    },
+    {
+        "english": "personality",
+        "hebrew": "אישיות"
+    },
+    {
+        "english": "persuade",
+        "hebrew": "לשכנע"
+    },
+    {
+        "english": "pertinent",
+        "hebrew": "שייך לנושא, רלוונטי"
+    },
+    {
+        "english": "pest",
+        "hebrew": "מטרד, מפגע"
+    },
+    {
+        "english": "pet",
+        "hebrew": "חיית מחמד"
+    },
+    {
+        "english": "petulant",
+        "hebrew": "קצר רוח, חסר סבלנות"
+    },
+    {
+        "english": "phase",
+        "hebrew": "שלב (בזמן)"
+    },
+    {
+        "english": "phrase",
+        "hebrew": "ביטוי (שמשתמשים בו כיחידה אחת)"
+    },
+    {
+        "english": "pink",
+        "hebrew": "ורוד"
+    },
+    {
+        "english": "pioneer",
+        "hebrew": "חלוץ"
+    },
+    {
+        "english": "place",
+        "hebrew": "מקום"
+    },
+    {
+        "english": "plan",
+        "hebrew": "תוכנית"
+    },
+    {
+        "english": "plane",
+        "hebrew": "מישור, מטוס"
+    },
+    {
+        "english": "plant",
+        "hebrew": "צמח, לשתול"
+    },
+    {
+        "english": "pocket",
+        "hebrew": "כיס"
+    },
+    {
+        "english": "portion",
+        "hebrew": "חלק משלם, מנה"
+    },
+    {
+        "english": "position",
+        "hebrew": "תנוחה"
+    },
+    {
+        "english": "possess",
+        "hebrew": "להיות בעלים של..."
+    },
+    {
+        "english": "possession",
+        "hebrew": "נכס, חפץ השייך למישהו"
+    },
+    {
+        "english": "possible",
+        "hebrew": "אפשרי"
+    },
+    {
+        "english": "postpone",
+        "hebrew": "לדחות"
+    },
+    {
+        "english": "posture",
+        "hebrew": "יציבה, תנוחה"
+    },
+    {
+        "english": "potential",
+        "hebrew": "פוטנציאל, היכולת הטמונה באדם, בפוטנציה, בעל סיכוי להתפתח"
+    },
+    {
+        "english": "praise",
+        "hebrew": "לשבח, דברי שבח"
+    },
+    {
+        "english": "preach",
+        "hebrew": "לשאת דרשה"
+    },
+    {
+        "english": "preacher",
+        "hebrew": "מטיף (בדר\"כ כומר)"
+    },
+    {
+        "english": "precede",
+        "hebrew": "כאשר אירוע מקדים אירוע אחר"
+    },
+    {
+        "english": "precise",
+        "hebrew": "מדוייק, מוגדר"
+    },
+    {
+        "english": "preclude",
+        "hebrew": "למנוע מאירוע להתקיים"
+    },
+    {
+        "english": "predator",
+        "hebrew": "טורף"
+    },
+    {
+        "english": "predict",
+        "hebrew": "לחזות"
+    },
+    {
+        "english": "prediction",
+        "hebrew": "תחזית"
+    },
+    {
+        "english": "prejudice",
+        "hebrew": "דעה קדומה"
+    },
+    {
+        "english": "prejudicial",
+        "hebrew": "גזעני"
+    },
+    {
+        "english": "prescription",
+        "hebrew": "מרשם"
+    },
+    {
+        "english": "prevent",
+        "hebrew": "למנוע"
+    },
+    {
+        "english": "preventive",
+        "hebrew": "מניעתי"
+    },
+    {
+        "english": "previous",
+        "hebrew": "הקודם"
+    },
+    {
+        "english": "previously",
+        "hebrew": "מקודם"
+    },
+    {
+        "english": "prey",
+        "hebrew": "טרף"
+    },
+    {
+        "english": "price",
+        "hebrew": "מחיר"
+    },
+    {
+        "english": "priceless",
+        "hebrew": "ללא מחיר, בעל ערך עצום"
+    },
+    {
+        "english": "primarily",
+        "hebrew": "בעיקר"
+    },
+    {
+        "english": "primary",
+        "hebrew": "ראשוני, עיקרי"
+    },
+    {
+        "english": "principal",
+        "hebrew": "חשוב, עיקרי, מנהל בי\"ס"
+    },
+    {
+        "english": "probably",
+        "hebrew": "כנראה"
+    },
+    {
+        "english": "process",
+        "hebrew": "תהליך"
+    },
+    {
+        "english": "procure",
+        "hebrew": "להשיג משהו שקשה להשגה"
+    },
+    {
+        "english": "produce",
+        "hebrew": "לייצר, מוצר, תוצר"
+    },
+    {
+        "english": "production",
+        "hebrew": "ייצור"
+    },
+    {
+        "english": "profit",
+        "hebrew": "רווח"
+    },
+    {
+        "english": "profitable",
+        "hebrew": "רווחי"
+    },
+    {
+        "english": "profound",
+        "hebrew": "עמוק, כבד, רציני"
+    },
+    {
+        "english": "progressive",
+        "hebrew": "מתקדם, מתפתח"
+    },
+    {
+        "english": "prompt",
+        "hebrew": "לגרום למשהו שיקרה, מהיר, מיידי"
+    },
+    {
+        "english": "propaganda",
+        "hebrew": "תעמולה"
+    },
+    {
+        "english": "propagate",
+        "hebrew": "להתרבות"
+    },
+    {
+        "english": "proper",
+        "hebrew": "נאות, מתאים"
+    },
+    {
+        "english": "property",
+        "hebrew": "רכוש"
+    },
+    {
+        "english": "proposal",
+        "hebrew": "הצעה"
+    },
+    {
+        "english": "propose",
+        "hebrew": "להציע (נישואין למשל)"
+    },
+    {
+        "english": "prospect",
+        "hebrew": "סיכויים, אפשרויות"
+    },
+    {
+        "english": "prosperous",
+        "hebrew": "משגשג, מצליח, פורח"
+    },
+    {
+        "english": "protest",
+        "hebrew": "למחות, מחאה"
+    },
+    {
+        "english": "prove",
+        "hebrew": "להוכיח"
+    },
+    {
+        "english": "provide",
+        "hebrew": "לספק"
+    },
+    {
+        "english": "provisional",
+        "hebrew": "זמני, ארעי"
+    },
+    {
+        "english": "provisions",
+        "hebrew": "אספקה"
+    },
+    {
+        "english": "pure",
+        "hebrew": "טהור"
+    },
+    {
+        "english": "purple",
+        "hebrew": "סגול"
+    },
+    {
+        "english": "purpose",
+        "hebrew": "מטרה"
+    },
+    {
+        "english": "pursue",
+        "hebrew": "לרדוף אחרי..."
+    },
+    {
+        "english": "pursuit",
+        "hebrew": "מרדף, רדיפה"
+    },
+    {
+        "english": "put",
+        "hebrew": "לשים"
+    },
+    {
+        "english": "puzzle",
+        "hebrew": "תצרף, חידה, פאזל"
+    },
+    {
+        "english": "puzzled",
+        "hebrew": "מבולבל"
+    },
+    {
+        "english": "qualifications",
+        "hebrew": "נתונים, כישורים"
+    },
+    {
+        "english": "qualify",
+        "hebrew": "להיות בעל כישורים מתאימים"
+    },
+    {
+        "english": "quality",
+        "hebrew": "איכות, תכונה"
+    },
+    {
+        "english": "quantity",
+        "hebrew": "כמות"
+    },
+    {
+        "english": "quarrel",
+        "hebrew": "ריב, לריב"
+    },
+    {
+        "english": "quest",
+        "hebrew": "מסע בחיפוש אחר דבר מה"
+    },
+    {
+        "english": "quit",
+        "hebrew": "לפרוש"
+    },
+    {
+        "english": "quite",
+        "hebrew": "במידה רבה, יותר מהממוצע, מאד"
+    },
+    {
+        "english": "race",
+        "hebrew": "תחרות, מירוץ, גזע"
+    },
+    {
+        "english": "radical",
+        "hebrew": "קיצוני"
+    },
+    {
+        "english": "radicalism",
+        "hebrew": "קיצוניות"
+    },
+    {
+        "english": "random",
+        "hebrew": "אקראי, ללא מטרה או כוונה"
+    },
+    {
+        "english": "range",
+        "hebrew": "טווח, להתפרס, להשתרע"
+    },
+    {
+        "english": "rank",
+        "hebrew": "דרגה"
+    },
+    {
+        "english": "rarely",
+        "hebrew": "לעיתים רחוקות"
+    },
+    {
+        "english": "rate",
+        "hebrew": "קצב, שער (במסחר), להעריך, לאמוד, לדרג"
+    },
+    {
+        "english": "rather",
+        "hebrew": "מוטב, עדיף, להעדיף, למדי"
+    },
+    {
+        "english": "react",
+        "hebrew": "להגיב"
+    },
+    {
+        "english": "reaction",
+        "hebrew": "תגובה"
+    },
+    {
+        "english": "read",
+        "hebrew": "לקרוא"
+    },
+    {
+        "english": "realize",
+        "hebrew": "להבין, לתפוס, לממש"
+    },
+    {
+        "english": "receive",
+        "hebrew": "לקבל"
+    },
+    {
+        "english": "recent",
+        "hebrew": "חדש, שהתרחש לאחרונה"
+    },
+    {
+        "english": "recently",
+        "hebrew": "קרה לאחרונה"
+    },
+    {
+        "english": "reciprocal",
+        "hebrew": "הדדי"
+    },
+    {
+        "english": "recognition",
+        "hebrew": "זיהוי"
+    },
+    {
+        "english": "recognize",
+        "hebrew": "לזהות"
+    },
+    {
+        "english": "reconcile",
+        "hebrew": "להשלים, להתפייס"
+    },
+    {
+        "english": "reconciliation",
+        "hebrew": "פיוס"
+    },
+    {
+        "english": "recuperate",
+        "hebrew": "להחלים"
+    },
+    {
+        "english": "reduce",
+        "hebrew": "להפחית, להנמיך"
+    },
+    {
+        "english": "redundant",
+        "hebrew": "מיותר, חוזר על עצמו"
+    },
+    {
+        "english": "refer",
+        "hebrew": "להתייחס ל..., להפנות"
+    },
+    {
+        "english": "refrain",
+        "hebrew": "להימנע מ..."
+    },
+    {
+        "english": "regret",
+        "hebrew": "להתחרט, חרטה"
+    },
+    {
+        "english": "rehabilitation",
+        "hebrew": "שיקום"
+    },
+    {
+        "english": "relate",
+        "hebrew": "לדווח, לספר"
+    },
+    {
+        "english": "relate",
+        "hebrew": "to להתייחס ל..."
+    },
+    {
+        "english": "relation",
+        "hebrew": "קשר, קרבה משפחתית"
+    },
+    {
+        "english": "relationship",
+        "hebrew": "מערכת יחסים"
+    },
+    {
+        "english": "relative",
+        "hebrew": "יחסי, קרוב משפחה"
+    },
+    {
+        "english": "relatively",
+        "hebrew": "יחסית"
+    },
+    {
+        "english": "release",
+        "hebrew": "לשחרר"
+    },
+    {
+        "english": "relief",
+        "hebrew": "הקלה, רווחה, מחליף"
+    },
+    {
+        "english": "relieve",
+        "hebrew": "לגרום הקלה, להקל"
+    },
+    {
+        "english": "religious",
+        "hebrew": "דתי"
+    },
+    {
+        "english": "reluctant",
+        "hebrew": "מסוייג, שלא רוצה"
+    },
+    {
+        "english": "rely",
+        "hebrew": "לסמוך"
+    },
+    {
+        "english": "remain",
+        "hebrew": "להישאר"
+    },
+    {
+        "english": "remainder",
+        "hebrew": "מה שנשאר, שארית"
+    },
+    {
+        "english": "remark",
+        "hebrew": "להעיר (הערה)"
+    },
+    {
+        "english": "remarkable",
+        "hebrew": "ראוי לציון"
+    },
+    {
+        "english": "remind",
+        "hebrew": "להזכיר"
+    },
+    {
+        "english": "reminder",
+        "hebrew": "תזכורת"
+    },
+    {
+        "english": "remnant",
+        "hebrew": "שייר, שריד"
+    },
+    {
+        "english": "remote",
+        "hebrew": "מרוחק"
+    },
+    {
+        "english": "renovate",
+        "hebrew": "לשפץ (בניין)"
+    },
+    {
+        "english": "repair",
+        "hebrew": "לתקן, תיקון"
+    },
+    {
+        "english": "replace",
+        "hebrew": "להחליף"
+    },
+    {
+        "english": "represent",
+        "hebrew": "לייצג, לסמל"
+    },
+    {
+        "english": "representation",
+        "hebrew": "ייצוג"
+    },
+    {
+        "english": "representative",
+        "hebrew": "נציג"
+    },
+    {
+        "english": "reprimand",
+        "hebrew": "לנזוף"
+    },
+    {
+        "english": "reproduce",
+        "hebrew": "להתרבות"
+    },
+    {
+        "english": "reprove",
+        "hebrew": "לגעור"
+    },
+    {
+        "english": "repudiate",
+        "hebrew": "להתכחש, לגנות, להתנער מ..."
+    },
+    {
+        "english": "repugnant",
+        "hebrew": "מבחיל"
+    },
+    {
+        "english": "reputation",
+        "hebrew": "מוניטין"
+    },
+    {
+        "english": "request",
+        "hebrew": "בקשה"
+    },
+    {
+        "english": "require",
+        "hebrew": "לבקש, להצהיר על משהו כנחוץ, לדרוש"
+    },
+    {
+        "english": "requirement",
+        "hebrew": "צורך, דרישה"
+    },
+    {
+        "english": "rescue",
+        "hebrew": "להציל"
+    },
+    {
+        "english": "residue",
+        "hebrew": "שייר"
+    },
+    {
+        "english": "resolution",
+        "hebrew": "החלטה נחושה לבצע משהו"
+    },
+    {
+        "english": "resolve",
+        "hebrew": "להחליט"
+    },
+    {
+        "english": "respect",
+        "hebrew": "כבוד"
+    },
+    {
+        "english": "respectable",
+        "hebrew": "מעורר כבוד, מכובד"
+    },
+    {
+        "english": "respectively",
+        "hebrew": "בהתאמה"
+    },
+    {
+        "english": "respond",
+        "hebrew": "להגיב"
+    },
+    {
+        "english": "response",
+        "hebrew": "תגובה, תשובה"
+    },
+    {
+        "english": "responsibility",
+        "hebrew": "אחריות"
+    },
+    {
+        "english": "responsible",
+        "hebrew": "אחראי"
+    },
+    {
+        "english": "restatement",
+        "hebrew": "ניסוח מחדש"
+    },
+    {
+        "english": "restaurant",
+        "hebrew": "מסעדה"
+    },
+    {
+        "english": "restore",
+        "hebrew": "להחזיר למצב הקודם"
+    },
+    {
+        "english": "restrain",
+        "hebrew": "לרסן"
+    },
+    {
+        "english": "restraint",
+        "hebrew": "איפוק, ריסון"
+    },
+    {
+        "english": "restrict",
+        "hebrew": "להגביל"
+    },
+    {
+        "english": "restriction",
+        "hebrew": "הגבלה"
+    },
+    {
+        "english": "result",
+        "hebrew": "תוצאה"
+    },
+    {
+        "english": "return",
+        "hebrew": "לחזור"
+    },
+    {
+        "english": "reveal",
+        "hebrew": "לגלות משהו שהיה חסוי"
+    },
+    {
+        "english": "revert",
+        "hebrew": "לחזור לשיטה הקודמת"
+    },
+    {
+        "english": "reward",
+        "hebrew": "לגמול, פרס, תגמול"
+    },
+    {
+        "english": "ridicule",
+        "hebrew": "ללעוג, לעג"
+    },
+    {
+        "english": "ring",
+        "hebrew": "לצלצל"
+    },
+    {
+        "english": "risk",
+        "hebrew": "סיכון, לסכן"
+    },
+    {
+        "english": "risky",
+        "hebrew": "מסוכן, שטמון בו סיכון"
+    },
+    {
+        "english": "roam",
+        "hebrew": "לשוטט"
+    },
+    {
+        "english": "role",
+        "hebrew": "תפקיד"
+    },
+    {
+        "english": "rout",
+        "hebrew": "להנחיל תבוסה, להביס, הנחלת תבוסה"
+    },
+    {
+        "english": "routine",
+        "hebrew": "שגרתי, שגרה"
+    },
+    {
+        "english": "run",
+        "hebrew": "לרוץ"
+    },
+    {
+        "english": "rush",
+        "hebrew": "נהירה"
+    },
+    {
+        "english": "ruthless",
+        "hebrew": "אכזרי, חסר רחמים"
+    },
+    {
+        "english": "sabotage",
+        "hebrew": "חבלה, לחבל"
+    },
+    {
+        "english": "sacrifice",
+        "hebrew": "להקריב, הקרבה"
+    },
+    {
+        "english": "satisfaction",
+        "hebrew": "סיפוק"
+    },
+    {
+        "english": "satisfactory",
+        "hebrew": "משביע רצון"
+    },
+    {
+        "english": "saturnine",
+        "hebrew": "עצוב, קודר, זועף"
+    },
+    {
+        "english": "save",
+        "hebrew": "לשמור, לחסוך"
+    },
+    {
+        "english": "scent",
+        "hebrew": "ניחוח"
+    },
+    {
+        "english": "scheme",
+        "hebrew": "תוכנית"
+    },
+    {
+        "english": "scholar",
+        "hebrew": "מלומד"
+    },
+    {
+        "english": "science",
+        "hebrew": "מדע"
+    },
+    {
+        "english": "scorch",
+        "hebrew": "לצרוב, לחרוך"
+    },
+    {
+        "english": "scream",
+        "hebrew": "לצרוח, צרחה"
+    },
+    {
+        "english": "scrutinize",
+        "hebrew": "לבדוק, לחקור, לבחון בקפידה, לעיין"
+    },
+    {
+        "english": "sculpture",
+        "hebrew": "פסל"
+    },
+    {
+        "english": "search",
+        "hebrew": "לחפש, חיפוש"
+    },
+    {
+        "english": "season",
+        "hebrew": "עונה"
+    },
+    {
+        "english": "second",
+        "hebrew": "שני, שנייה, רגע"
+    },
+    {
+        "english": "section",
+        "hebrew": "רובע, חלק, תחום"
+    },
+    {
+        "english": "security",
+        "hebrew": "בטחון"
+    },
+    {
+        "english": "see",
+        "hebrew": "לראות"
+    },
+    {
+        "english": "seek",
+        "hebrew": "לחפש, לבקש"
+    },
+    {
+        "english": "seldom",
+        "hebrew": "לעיתים רחוקות"
+    },
+    {
+        "english": "send",
+        "hebrew": "לשלוח"
+    },
+    {
+        "english": "sense",
+        "hebrew": "לחוש, להרגיש, חוש, הרגשה"
+    },
+    {
+        "english": "sensible",
+        "hebrew": "הגיוני, שקול"
+    },
+    {
+        "english": "sensitivity",
+        "hebrew": "רגישות"
+    },
+    {
+        "english": "separate",
+        "hebrew": "להפריד, נפרד, לא מחובר"
+    },
+    {
+        "english": "serene",
+        "hebrew": "שליו"
+    },
+    {
+        "english": "set",
+        "hebrew": "לערוך"
+    },
+    {
+        "english": "several",
+        "hebrew": "אחדים, כמה"
+    },
+    {
+        "english": "severe",
+        "hebrew": "חמור"
+    },
+    {
+        "english": "severely",
+        "hebrew": "באופן חמור, באופן רציני"
+    },
+    {
+        "english": "shape",
+        "hebrew": "צורה, להקנות צורה"
+    },
+    {
+        "english": "shapeless",
+        "hebrew": "חסר צורה"
+    },
+    {
+        "english": "share",
+        "hebrew": "לשתף, חלק, מנייה"
+    },
+    {
+        "english": "sharp",
+        "hebrew": "חד"
+    },
+    {
+        "english": "shell",
+        "hebrew": "קליפה, צדף"
+    },
+    {
+        "english": "shine",
+        "hebrew": "לזרוח"
+    },
+    {
+        "english": "shock",
+        "hebrew": "הלם, פליאה, לגרום למישהו פליאה"
+    },
+    {
+        "english": "shocking",
+        "hebrew": "מזעזע, מפליא, מהמם"
+    },
+    {
+        "english": "shortcut",
+        "hebrew": "קיצור דרך (גם במשמעות המושאלת)"
+    },
+    {
+        "english": "show",
+        "hebrew": "להראות"
+    },
+    {
+        "english": "shrewd",
+        "hebrew": "פיקח"
+    },
+    {
+        "english": "shrewdly",
+        "hebrew": "בפיקחות"
+    },
+    {
+        "english": "shrewdness",
+        "hebrew": "פיקחות"
+    },
+    {
+        "english": "shut",
+        "hebrew": "לסגור"
+    },
+    {
+        "english": "sight",
+        "hebrew": "מראה, ראייה"
+    },
+    {
+        "english": "sign",
+        "hebrew": "לסמן, סימן, שלט, לחתום"
+    },
+    {
+        "english": "signal",
+        "hebrew": "סימן"
+    },
+    {
+        "english": "significance",
+        "hebrew": "חשיבות"
+    },
+    {
+        "english": "significant",
+        "hebrew": "בעל משמעות, חשוב"
+    },
+    {
+        "english": "signify",
+        "hebrew": "לסמן, להביע, לתת סימן"
+    },
+    {
+        "english": "silent",
+        "hebrew": "שקט"
+    },
+    {
+        "english": "similar",
+        "hebrew": "דומה"
+    },
+    {
+        "english": "similarity",
+        "hebrew": "דמיון"
+    },
+    {
+        "english": "simultaneous",
+        "hebrew": "בו-זמנית, באותו הזמן"
+    },
+    {
+        "english": "sincere",
+        "hebrew": "כן"
+    },
+    {
+        "english": "sincerity",
+        "hebrew": "כנות"
+    },
+    {
+        "english": "sing",
+        "hebrew": "לשיר"
+    },
+    {
+        "english": "sinister",
+        "hebrew": "רע, מפחיד"
+    },
+    {
+        "english": "sink",
+        "hebrew": "לטבוע"
+    },
+    {
+        "english": "sit",
+        "hebrew": "לשבת"
+    },
+    {
+        "english": "situate",
+        "hebrew": "למקם"
+    },
+    {
+        "english": "situated",
+        "hebrew": "ממוקם"
+    },
+    {
+        "english": "situation",
+        "hebrew": "מצב"
+    },
+    {
+        "english": "skill",
+        "hebrew": "מיומנות"
+    },
+    {
+        "english": "skillful",
+        "hebrew": "מיומן"
+    },
+    {
+        "english": "skimp",
+        "hebrew": "להתקמצן"
+    },
+    {
+        "english": "sleep",
+        "hebrew": "לישון"
+    },
+    {
+        "english": "slight",
+        "hebrew": "מעט, קטן"
+    },
+    {
+        "english": "argue",
+        "hebrew": "להתווכח, לטעון"
+    },
+    {
+        "english": "argument",
+        "hebrew": "טיעון, ויכוח"
+    },
+    {
+        "english": "argumentative",
+        "hebrew": "וכחן"
+    },
+    {
+        "english": "arise",
+        "hebrew": "לקום, לנבוע"
+    },
+    {
+        "english": "arm",
+        "hebrew": "זרוע"
+    },
+    {
+        "english": "aroma",
+        "hebrew": "ניחוח"
+    },
+    {
+        "english": "arouse",
+        "hebrew": "לעורר"
+    },
+    {
+        "english": "arrange",
+        "hebrew": "לסדר"
+    },
+    {
+        "english": "arrangement",
+        "hebrew": "סידור"
+    },
+    {
+        "english": "arrive",
+        "hebrew": "להגיע"
+    },
+    {
+        "english": "arrogant",
+        "hebrew": "יהיר, שחצן"
+    },
+    {
+        "english": "art",
+        "hebrew": "אומנות"
+    },
+    {
+        "english": "ascertain",
+        "hebrew": "לברר, לוודא"
+    },
+    {
+        "english": "ascribe",
+        "hebrew": "לייחס, לשייך"
+    },
+    {
+        "english": "assault",
+        "hebrew": "לתקוף, תקיפה, התקפה"
+    },
+    {
+        "english": "assembly",
+        "hebrew": "הרכבה"
+    },
+    {
+        "english": "assert",
+        "hebrew": "לעמוד על, להכריז, לתבוע"
+    },
+    {
+        "english": "assertion",
+        "hebrew": "טענה תקיפה"
+    },
+    {
+        "english": "assertive",
+        "hebrew": "החלטי"
+    },
+    {
+        "english": "assertively",
+        "hebrew": "באופן החלטי"
+    },
+    {
+        "english": "asset",
+        "hebrew": "נכס"
+    },
+    {
+        "english": "assign",
+        "hebrew": "למנות"
+    },
+    {
+        "english": "assimilate",
+        "hebrew": "לספוג, להיטמע"
+    },
+    {
+        "english": "associated",
+        "hebrew": "מקושר, מתלווה ל..."
+    },
+    {
+        "english": "assume",
+        "hebrew": "להניח, לקבל על עצמו"
+    },
+    {
+        "english": "assumption",
+        "hebrew": "הנחה"
+    },
+    {
+        "english": "astonish",
+        "hebrew": "מדהים, להדהים"
+    },
+    {
+        "english": "at",
+        "hebrew": "least לפחות"
+    },
+    {
+        "english": "attach",
+        "hebrew": "לחבר, להיות קשור ל..."
+    },
+    {
+        "english": "attack",
+        "hebrew": "לתקוף"
+    },
+    {
+        "english": "attain",
+        "hebrew": "להשיג"
+    },
+    {
+        "english": "attempt",
+        "hebrew": "לנסות, ניסיון"
+    },
+    {
+        "english": "attend",
+        "hebrew": "לטפל, להיות נוכח"
+    },
+    {
+        "english": "attendance",
+        "hebrew": "נוכחות"
+    },
+    {
+        "english": "attention",
+        "hebrew": "תשומת לב"
+    },
+    {
+        "english": "attitude",
+        "hebrew": "גישה"
+    },
+    {
+        "english": "attorney",
+        "hebrew": "עורך דין"
+    },
+    {
+        "english": "attract",
+        "hebrew": "למשוך"
+    },
+    {
+        "english": "attraction",
+        "hebrew": "משיכה"
+    },
+    {
+        "english": "attractive",
+        "hebrew": "מושך"
+    },
+    {
+        "english": "attribute",
+        "hebrew": "לייחס, תכונה, סמל"
+    },
+    {
+        "english": "audacious",
+        "hebrew": "נועז"
+    },
+    {
+        "english": "audience",
+        "hebrew": "קהל, ראיון"
+    },
+    {
+        "english": "aunt",
+        "hebrew": "דודה"
+    },
+    {
+        "english": "authentic",
+        "hebrew": "אמיתי, מקורי"
+    },
+    {
+        "english": "authenticity",
+        "hebrew": "אותנטיות, אמיתיות"
+    },
+    {
+        "english": "author",
+        "hebrew": "סופר, יוצר"
+    },
+    {
+        "english": "authoritative",
+        "hebrew": "סמכותי"
+    },
+    {
+        "english": "authority",
+        "hebrew": "סמכות, רשות מנהלית"
+    },
+    {
+        "english": "autumn",
+        "hebrew": "סתיו"
+    },
+    {
+        "english": "available",
+        "hebrew": "פנוי"
+    },
+    {
+        "english": "avarice",
+        "hebrew": "תאוות בצע"
+    },
+    {
+        "english": "avaricious",
+        "hebrew": "תאב בצע"
+    },
+    {
+        "english": "avoid",
+        "hebrew": "להימנע מ..."
+    },
+    {
+        "english": "aware",
+        "hebrew": "מודע"
+    },
+    {
+        "english": "awareness",
+        "hebrew": "מודעות"
+    },
+    {
+        "english": "awe",
+        "hebrew": "יראת כבוד"
+    },
+    {
+        "english": "awe",
+        "hebrew": "inspiring מעורר יראת כבוד"
+    },
+    {
+        "english": "axis",
+        "hebrew": "ציר"
+    },
+    {
+        "english": "azure",
+        "hebrew": "תכלת"
+    },
+    {
+        "english": "vaccination",
+        "hebrew": "חיסון"
+    },
+    {
+        "english": "vague",
+        "hebrew": "לא ברור, מעורפל"
+    },
+    {
+        "english": "vain",
+        "hebrew": "יהיר"
+    },
+    {
+        "english": "valid",
+        "hebrew": "שריר, בר-תוקף"
+    },
+    {
+        "english": "valuable",
+        "hebrew": "בעל ערך"
+    },
+    {
+        "english": "valuate",
+        "hebrew": "להעריך"
+    },
+    {
+        "english": "value",
+        "hebrew": "ערך"
+    },
+    {
+        "english": "vapor",
+        "hebrew": "אד"
+    },
+    {
+        "english": "various",
+        "hebrew": "שונה, מגוון"
+    },
+    {
+        "english": "vary",
+        "hebrew": "להשתנות, להיות מגוון"
+    },
+    {
+        "english": "vast",
+        "hebrew": "רחב, עצום"
+    },
+    {
+        "english": "vegetable",
+        "hebrew": "ירק"
+    },
+    {
+        "english": "velocity",
+        "hebrew": "מהירות"
+    },
+    {
+        "english": "vengeance",
+        "hebrew": "נקמה"
+    },
+    {
+        "english": "verdict",
+        "hebrew": "פסק דין"
+    },
+    {
+        "english": "verifiable",
+        "hebrew": "ניתן לבירור"
+    },
+    {
+        "english": "verify",
+        "hebrew": "לברר, לאמת"
+    },
+    {
+        "english": "version",
+        "hebrew": "גרסה"
+    },
+    {
+        "english": "vertebrae",
+        "hebrew": "חוליות עמוד השדרה"
+    },
+    {
+        "english": "village",
+        "hebrew": "כפר"
+    },
+    {
+        "english": "violence",
+        "hebrew": "אלימות"
+    },
+    {
+        "english": "virtue",
+        "hebrew": "מעלה"
+    },
+    {
+        "english": "visibility",
+        "hebrew": "ראות"
+    },
+    {
+        "english": "vision",
+        "hebrew": "ראייה"
+    },
+    {
+        "english": "volume",
+        "hebrew": "עוצמת קול, כרך של ספר, נפח"
+    },
+    {
+        "english": "vulnerable",
+        "hebrew": "פגיע, רגיש"
+    },
+    {
+        "english": "wage",
+        "hebrew": "שכר, משכורת, להתחיל, לערוך, לנהל"
+    },
+    {
+        "english": "wail",
+        "hebrew": "בכי,זעקה, לילל"
+    },
+    {
+        "english": "wander",
+        "hebrew": "לשוטט"
+    },
+    {
+        "english": "warning",
+        "hebrew": "אזהרה"
+    },
+    {
+        "english": "waste",
+        "hebrew": "פסולת, בזבוז, לבזבז"
+    },
+    {
+        "english": "watch",
+        "hebrew": "לצפות, שעון"
+    },
+    {
+        "english": "wave",
+        "hebrew": "גל"
+    },
+    {
+        "english": "weather",
+        "hebrew": "מזג אוויר"
+    },
+    {
+        "english": "well",
+        "hebrew": "טוב, באר, ובכן"
+    },
+    {
+        "english": "west",
+        "hebrew": "מערב"
+    },
+    {
+        "english": "wet",
+        "hebrew": "רטוב"
+    },
+    {
+        "english": "whale",
+        "hebrew": "לוויתן"
+    },
+    {
+        "english": "wharf",
+        "hebrew": "מזח"
+    },
+    {
+        "english": "whereas",
+        "hebrew": "בשעה ש... בעוד... (מראה על ניגוד בין משפטים)"
+    },
+    {
+        "english": "whereby",
+        "hebrew": "שבאמצעותו"
+    },
+    {
+        "english": "whistle",
+        "hebrew": "משרוקית, לשרוק"
+    },
+    {
+        "english": "whole",
+        "hebrew": "הכל, שלם"
+    },
+    {
+        "english": "wholesale",
+        "hebrew": "סיטונאות"
+    },
+    {
+        "english": "wicked",
+        "hebrew": "רשע, רע"
+    },
+    {
+        "english": "wickedness",
+        "hebrew": "רוע, רשע"
+    },
+    {
+        "english": "wide",
+        "hebrew": "רחב"
+    },
+    {
+        "english": "widely",
+        "hebrew": "באופן נרחב"
+    },
+    {
+        "english": "widespread",
+        "hebrew": "נפוץ, נרחב"
+    },
+    {
+        "english": "wife",
+        "hebrew": "אישה (של מישהו)"
+    },
+    {
+        "english": "wild",
+        "hebrew": "פראי"
+    },
+    {
+        "english": "wildlife",
+        "hebrew": "חיות בר"
+    },
+    {
+        "english": "win",
+        "hebrew": "לנצח"
+    },
+    {
+        "english": "windmill",
+        "hebrew": "טחנת רוח"
+    },
+    {
+        "english": "wink",
+        "hebrew": "לקרוץ"
+    },
+    {
+        "english": "winter",
+        "hebrew": "חורף"
+    },
+    {
+        "english": "wisdom",
+        "hebrew": "חוכמה"
+    },
+    {
+        "english": "wish",
+        "hebrew": "משאלה, לבקש, לרצות"
+    },
+    {
+        "english": "within",
+        "hebrew": "בתוך"
+    },
+    {
+        "english": "withstand",
+        "hebrew": "לעמוד נגד לחץ"
+    },
+    {
+        "english": "worth",
+        "hebrew": "שווי"
+    },
+    {
+        "english": "wring",
+        "hebrew": "לסחוט"
+    },
+    {
+        "english": "x-ray",
+        "hebrew": "צילום רנטגן"
+    },
+    {
+        "english": "yearn",
+        "hebrew": "לכמוה"
+    },
+    {
+        "english": "yell",
+        "hebrew": "לצעוק"
+    },
+    {
+        "english": "yield",
+        "hebrew": "להניב, להיכנע, לתת זכות קדימה"
+    },
+    {
+        "english": "youngster",
+        "hebrew": "צעיר"
+    },
+    {
+        "english": "zeal",
+        "hebrew": "התלהבות, מרץ"
+    },
+    {
+        "english": "zealot",
+        "hebrew": "קנאי"
+    },
+    {
+        "english": "zest",
+        "hebrew": "שמחת חיים, הרגשת שביעות רצון ועניין"
+    },
+    {
+        "english": "zone",
+        "hebrew": "אזור, תחום"
+    },
+    {
+        "english": "zoo",
+        "hebrew": "גן חיות"
+    },
+    {
+        "english": "tiresome",
+        "hebrew": "מעייף, מייגע"
+    },
+    {
+        "english": "toilet",
+        "hebrew": "בית שימוש"
+    },
+    {
+        "english": "tolerate",
+        "hebrew": "לסבול משהו, לנשוא, להתיר, לסבול משהו"
+    },
+    {
+        "english": "tongue",
+        "hebrew": "לשון, שפה, ניב"
+    },
+    {
+        "english": "tooth",
+        "hebrew": "שן"
+    },
+    {
+        "english": "topic",
+        "hebrew": "נושא"
+    },
+    {
+        "english": "torch",
+        "hebrew": "פנס, לפיד"
+    },
+    {
+        "english": "torment",
+        "hebrew": "לענות (בעינויים), להציק, לגרום סבל רב, סבל רב, עינוי"
+    },
+    {
+        "english": "tortoise",
+        "hebrew": "צב"
+    },
+    {
+        "english": "tour",
+        "hebrew": "סיור"
+    },
+    {
+        "english": "towards",
+        "hebrew": "לכיוון, לקראת, לעבר"
+    },
+    {
+        "english": "trace",
+        "hebrew": "עקבות, לעקוב"
+    },
+    {
+        "english": "trade",
+        "hebrew": "סחר, מסחר, לסחור"
+    },
+    {
+        "english": "tradition",
+        "hebrew": "מסורת"
+    },
+    {
+        "english": "traditional",
+        "hebrew": "מסורתי"
+    },
+    {
+        "english": "traditionally",
+        "hebrew": "באופן מסורתי"
+    },
+    {
+        "english": "traffic",
+        "hebrew": "תנועה של כלי רכב"
+    },
+    {
+        "english": "train",
+        "hebrew": "רכבת, לאמן, להתאמן"
+    },
+    {
+        "english": "trait",
+        "hebrew": "תכונת אופי"
+    },
+    {
+        "english": "tranquil",
+        "hebrew": "שקט, רגוע"
+    },
+    {
+        "english": "transform",
+        "hebrew": "להפוך ל..., להשתנות"
+    },
+    {
+        "english": "transformation",
+        "hebrew": "שינוי"
+    },
+    {
+        "english": "transition",
+        "hebrew": "מעבר"
+    },
+    {
+        "english": "transitory",
+        "hebrew": "בר-חלוף"
+    },
+    {
+        "english": "translate",
+        "hebrew": "לתרגם"
+    },
+    {
+        "english": "translation",
+        "hebrew": "תרגום"
+    },
+    {
+        "english": "travel",
+        "hebrew": "לטייל"
+    },
+    {
+        "english": "traveler",
+        "hebrew": "טייל"
+    },
+    {
+        "english": "treat",
+        "hebrew": "להתייחס אל..., תענוג"
+    },
+    {
+        "english": "tremendous",
+        "hebrew": "עצום, גדול"
+    },
+    {
+        "english": "trend",
+        "hebrew": "מגמה"
+    },
+    {
+        "english": "trigger",
+        "hebrew": "להפעיל, לעורר, דבר המעורר תגובה עזה, הדק"
+    },
+    {
+        "english": "trivial",
+        "hebrew": "שולי"
+    },
+    {
+        "english": "troupe",
+        "hebrew": "להקה, הרכב"
+    },
+    {
+        "english": "trousers",
+        "hebrew": "מכנסיים"
+    },
+    {
+        "english": "trust",
+        "hebrew": "לסמוך"
+    },
+    {
+        "english": "type",
+        "hebrew": "סוג, להדפיס"
+    },
+    {
+        "english": "typical",
+        "hebrew": "אופייני"
+    },
+    {
+        "english": "tyranny",
+        "hebrew": "שלטון עריצות"
+    },
+    {
+        "english": "tyrant",
+        "hebrew": "עריץ"
+    },
+    {
+        "english": "ugly",
+        "hebrew": "מכוער"
+    },
+    {
+        "english": "ultimate",
+        "hebrew": "סופי"
+    },
+    {
+        "english": "unanimous",
+        "hebrew": "פה-אחד"
+    },
+    {
+        "english": "unavoidable",
+        "hebrew": "בלתי נמנע"
+    },
+    {
+        "english": "uncle",
+        "hebrew": "דוד"
+    },
+    {
+        "english": "underline",
+        "hebrew": "להדגיש"
+    },
+    {
+        "english": "undermine",
+        "hebrew": "לחתור תחת, לסקל"
+    },
+    {
+        "english": "undertake",
+        "hebrew": "לקחת על עצמך (משימה, אחריות)"
+    },
+    {
+        "english": "undertaker",
+        "hebrew": "קברן"
+    },
+    {
+        "english": "union",
+        "hebrew": "איחוד, איגוד"
+    },
+    {
+        "english": "unique",
+        "hebrew": "ייחודי"
+    },
+    {
+        "english": "unison",
+        "hebrew": "ביחד, בצוותא"
+    },
+    {
+        "english": "unity",
+        "hebrew": "אחדות"
+    },
+    {
+        "english": "unnatural",
+        "hebrew": "לא טבעי"
+    },
+    {
+        "english": "upset",
+        "hebrew": "מודאג, מוטרד, נסער, להדאיג, להטריד"
+    },
+    {
+        "english": "upwards",
+        "hebrew": "כלפי מעלה"
+    },
+    {
+        "english": "urban",
+        "hebrew": "עירוני"
+    },
+    {
+        "english": "urgent",
+        "hebrew": "דחוף"
+    },
+    {
+        "english": "utterly",
+        "hebrew": "לחלוטין, לגמרי"
+    },
+    {
+        "english": "vacation",
+        "hebrew": "חופשה"
+    },
+    {
+        "english": "suggest",
+        "hebrew": "להציע"
+    },
+    {
+        "english": "suggestion",
+        "hebrew": "הצעה"
+    },
+    {
+        "english": "summer",
+        "hebrew": "קיץ"
+    },
+    {
+        "english": "superfluous",
+        "hebrew": "עודף, מיותר"
+    },
+    {
+        "english": "superior",
+        "hebrew": "נעלה, עליון"
+    },
+    {
+        "english": "supper",
+        "hebrew": "ארוחת ערב"
+    },
+    {
+        "english": "support",
+        "hebrew": "תמיכה"
+    },
+    {
+        "english": "suppose",
+        "hebrew": "לשער"
+    },
+    {
+        "english": "supposedly",
+        "hebrew": "כביכול, כנראה, לכאורה"
+    },
+    {
+        "english": "supposition",
+        "hebrew": "השערה"
+    },
+    {
+        "english": "sure",
+        "hebrew": "להיות בטוח במשהו"
+    },
+    {
+        "english": "surface",
+        "hebrew": "פני השטח"
+    },
+    {
+        "english": "surreptitiously",
+        "hebrew": "באופן חשאי, סודי"
+    },
+    {
+        "english": "surrounding",
+        "hebrew": "מקיף"
+    },
+    {
+        "english": "survive",
+        "hebrew": "לשרוד"
+    },
+    {
+        "english": "susceptible",
+        "hebrew": "רגיש, פגיע, מועד"
+    },
+    {
+        "english": "suspend",
+        "hebrew": "להשעות, להשהות, לעכב"
+    },
+    {
+        "english": "suspension",
+        "hebrew": "דחייה, השהייה"
+    },
+    {
+        "english": "sustain",
+        "hebrew": "לשמור על משהו לאורך זמן, להחזיק, לתמוך"
+    },
+    {
+        "english": "suture",
+        "hebrew": "לבצע תפר רפואי"
+    },
+    {
+        "english": "sweep",
+        "hebrew": "לטאטא"
+    },
+    {
+        "english": "swim",
+        "hebrew": "לשחות"
+    },
+    {
+        "english": "switch",
+        "hebrew": "on/off להדליק/לכבות"
+    },
+    {
+        "english": "symbol",
+        "hebrew": "סמל"
+    },
+    {
+        "english": "system",
+        "hebrew": "מערכת"
+    },
+    {
+        "english": "take",
+        "hebrew": "לקחת"
+    },
+    {
+        "english": "take",
+        "hebrew": "advantage of לנצל"
+    },
+    {
+        "english": "take",
+        "hebrew": "off להמריא"
+    },
+    {
+        "english": "tale",
+        "hebrew": "סיפור , מעשייה"
+    },
+    {
+        "english": "target",
+        "hebrew": "מטרה"
+    },
+    {
+        "english": "task",
+        "hebrew": "משימה, מטלה"
+    },
+    {
+        "english": "tax",
+        "hebrew": "מס"
+    },
+    {
+        "english": "taxation",
+        "hebrew": "מיסוי"
+    },
+    {
+        "english": "teach",
+        "hebrew": "ללמד"
+    },
+    {
+        "english": "technique",
+        "hebrew": "שיטה (טכניקה)"
+    },
+    {
+        "english": "teeth",
+        "hebrew": "שיניים"
+    },
+    {
+        "english": "tell",
+        "hebrew": "לספר, לומר"
+    },
+    {
+        "english": "temper",
+        "hebrew": "מזג רגזני"
+    },
+    {
+        "english": "temperament",
+        "hebrew": "מזג, אופי"
+    },
+    {
+        "english": "temporary",
+        "hebrew": "זמני"
+    },
+    {
+        "english": "tempt",
+        "hebrew": "לפתות"
+    },
+    {
+        "english": "temptation",
+        "hebrew": "פיתוי"
+    },
+    {
+        "english": "tend",
+        "hebrew": "לנטות לעשות משהו"
+    },
+    {
+        "english": "tend",
+        "hebrew": "to לנטות ל..."
+    },
+    {
+        "english": "tendency",
+        "hebrew": "נטייה"
+    },
+    {
+        "english": "tender",
+        "hebrew": "ברכות, רך, עדין"
+    },
+    {
+        "english": "tense",
+        "hebrew": "זמן דקדוקי, מתוח"
+    },
+    {
+        "english": "tension",
+        "hebrew": "מתח"
+    },
+    {
+        "english": "theme",
+        "hebrew": "נושא מרכזי"
+    },
+    {
+        "english": "theory",
+        "hebrew": "השערה, תיאוריה"
+    },
+    {
+        "english": "therefore",
+        "hebrew": "לכן"
+    },
+    {
+        "english": "think",
+        "hebrew": "לחשוב על..."
+    },
+    {
+        "english": "thirst",
+        "hebrew": "צמא"
+    },
+    {
+        "english": "thorax",
+        "hebrew": "חזה, בית החזה"
+    },
+    {
+        "english": "thorough",
+        "hebrew": "יסודי"
+    },
+    {
+        "english": "threat",
+        "hebrew": "איום"
+    },
+    {
+        "english": "thrive",
+        "hebrew": "לשגשג"
+    },
+    {
+        "english": "thrust",
+        "hebrew": "להדוף"
+    },
+    {
+        "english": "thus",
+        "hebrew": "לפיכך, לכן"
+    },
+    {
+        "english": "tight",
+        "hebrew": "צמוד, הדוק"
+    },
+    {
+        "english": "smell",
+        "hebrew": "להריח"
+    },
+    {
+        "english": "smother",
+        "hebrew": "לכסות, לחנוק"
+    },
+    {
+        "english": "snout",
+        "hebrew": "חוטם של בעל חיים"
+    },
+    {
+        "english": "society",
+        "hebrew": "חברה"
+    },
+    {
+        "english": "solidarity",
+        "hebrew": "אחדות"
+    },
+    {
+        "english": "solution",
+        "hebrew": "תמיסה, פתרון"
+    },
+    {
+        "english": "solve",
+        "hebrew": "לפתור"
+    },
+    {
+        "english": "son",
+        "hebrew": "בן"
+    },
+    {
+        "english": "sophisticated",
+        "hebrew": "מתוחכם"
+    },
+    {
+        "english": "source",
+        "hebrew": "מקור"
+    },
+    {
+        "english": "south",
+        "hebrew": "דרום"
+    },
+    {
+        "english": "speak",
+        "hebrew": "לדבר"
+    },
+    {
+        "english": "species",
+        "hebrew": "מין, סוג"
+    },
+    {
+        "english": "specific",
+        "hebrew": "מסויים, מפורט"
+    },
+    {
+        "english": "specifically",
+        "hebrew": "באופן ספציפי"
+    },
+    {
+        "english": "speech",
+        "hebrew": "נאום, דיבור"
+    },
+    {
+        "english": "spell",
+        "hebrew": "לאיית"
+    },
+    {
+        "english": "spelling",
+        "hebrew": "איות"
+    },
+    {
+        "english": "spend",
+        "hebrew": "להוציא/לבזבז כסף, לבלות עם, להעביר/להקדיש זמן"
+    },
+    {
+        "english": "split",
+        "hebrew": "מחולק, לפצל, לחלק"
+    },
+    {
+        "english": "spread",
+        "hebrew": "לפרוש, להתפשט"
+    },
+    {
+        "english": "spring",
+        "hebrew": "לזנק, לנתר, אביב"
+    },
+    {
+        "english": "stability",
+        "hebrew": "יציבות"
+    },
+    {
+        "english": "stable",
+        "hebrew": "יציב"
+    },
+    {
+        "english": "stagger",
+        "hebrew": "ללכת לא יציב, להתנודד"
+    },
+    {
+        "english": "stamp",
+        "hebrew": "בול"
+    },
+    {
+        "english": "standpoint",
+        "hebrew": "עמדה"
+    },
+    {
+        "english": "start",
+        "hebrew": "off להתחיל, להיפתח ב..."
+    },
+    {
+        "english": "statement",
+        "hebrew": "הצהרה, אימרה, היגד"
+    },
+    {
+        "english": "stem",
+        "hebrew": "לנבוע, לצמוח, גבעול"
+    },
+    {
+        "english": "stench",
+        "hebrew": "סירחון"
+    },
+    {
+        "english": "stenographer",
+        "hebrew": "קצרן"
+    },
+    {
+        "english": "stimulus",
+        "hebrew": "גירוי"
+    },
+    {
+        "english": "stink",
+        "hebrew": "להסריח"
+    },
+    {
+        "english": "stomach",
+        "hebrew": "בטן"
+    },
+    {
+        "english": "store",
+        "hebrew": "חנות, לאחסן"
+    },
+    {
+        "english": "straight",
+        "hebrew": "ישר"
+    },
+    {
+        "english": "stranger",
+        "hebrew": "זר"
+    },
+    {
+        "english": "stratum",
+        "hebrew": "שכבה, רובד"
+    },
+    {
+        "english": "strenuous",
+        "hebrew": "מאמץ, קשה"
+    },
+    {
+        "english": "stress",
+        "hebrew": "להדגיש, מתח, לחץ"
+    },
+    {
+        "english": "stretch",
+        "hebrew": "להימתח, למתוח"
+    },
+    {
+        "english": "strive",
+        "hebrew": "לחתור"
+    },
+    {
+        "english": "struggle",
+        "hebrew": "מאבק, להיאבק"
+    },
+    {
+        "english": "study",
+        "hebrew": "ללמוד, מחקר"
+    },
+    {
+        "english": "stunt",
+        "hebrew": "פעלול"
+    },
+    {
+        "english": "stuntman",
+        "hebrew": "פעלולן (בסרטים)"
+    },
+    {
+        "english": "style",
+        "hebrew": "סגנון"
+    },
+    {
+        "english": "subconscious",
+        "hebrew": "תת מודע"
+    },
+    {
+        "english": "subject",
+        "hebrew": "נושא"
+    },
+    {
+        "english": "submit",
+        "hebrew": "להיכנע, להגיש"
+    },
+    {
+        "english": "subscribe",
+        "hebrew": "לעשות מנוי"
+    },
+    {
+        "english": "sudden",
+        "hebrew": "פתאומי"
+    },
+    {
+        "english": "suddenly",
+        "hebrew": "לפתע"
+    },
+    {
+        "english": "sue",
+        "hebrew": "לתבוע"
+    },
+    {
+        "english": "suffer",
+        "hebrew": "לסבול"
+    },
+    {
+        "english": "sufficient",
+        "hebrew": "מספיק, מספק"
+    },
+    {
+        "english": "sufficiently",
+        "hebrew": "באופן שיספק"
+    },
+    {
+        "english": "suffocate",
+        "hebrew": "להיחנק"
+    },
+    {
+        "english": "suffocation",
+        "hebrew": "חנק"
+    }
+]
