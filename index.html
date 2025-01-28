@@ -7101,7 +7101,7 @@ const quizContainer = document.getElementById('quiz');
                 words.splice(index, 1);
             }
         } else {
-            feedbackElement.textContent = 'Incorrect!';
+            feedbackElement.textContent = `Incorrect! The correct answer is "${currentWord.hebrew}".`;
             feedbackElement.className = 'feedback incorrect';
             button.classList.add('incorrect');
         }
